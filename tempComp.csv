@@ -1,0 +1,1639 @@
+ids,labels,parents
+1339,"T-DEV-810 - Addressing a clear and organized speech",132
+1721,"T-PRO-000 - Producing a video",432
+1583,"T-MAJ-800 - Homogenizing the components into one coherent application",1582
+1473,"T-DEV-800 - Respecting design and accessibility guidelines",391
+270,"T-DEV-700 - Ensuring safety within the code",269
+1489,"T-NSA-800 - Defining procedures",1488
+1501,"T-NSA-800 - Delivering in time",183
+1688,"T-PRO-000 - Making data easily available",1425
+143,"T-DEV-700 - Storing data",142
+2219,"T-MAJ-800 - Automating data patching",1297
+1340,"T-DIT-810 - Addressing a clear and organized speech",132
+1213,"T-ESP-800 - Addressing a clear and organized speech",132
+1220,"T-ESP-800 - Answering questions",136
+138,"T-POO-700 - Answering questions",136
+137,"T-DEV-700 - Answering questions",136
+161,"T-PRO-000 - Taking part in community projects",160
+1383,"T-DEV-810 - Writing code documentation",198
+276,"T-NSA-700 - Supporting a talk with relevant slides",128
+1710,"T-PRO-000 - Promoting a project or oneself",1263
+1719,"T-PRO-000 - Providing a final quality assessment process",203
+1730,"T-PRO-000 - Using libraries",1388
+1741,"T-PRO-000 - Building a full unit test coverage",214
+159,"T-PRO-000 - Engaging in extra curricular activities",158
+1345,"T-DIT-810 - Writing user stories",410
+288,"T-WEB-700 - Storing user preferences",142
+1514,"T-NSA-800 - Restarting services",343
+1461,"T-WEB-800 - Building a full unit test coverage",214
+2220,"T-DAT-902 - Addressing a clear and organized speech",132
+1563,"T-MAJ-800 - Behaving decently on forums",150
+181,"T-DEV-700 - Producing a clean code",180
+191,"T-POO-700 - Submitting a clean and well organised delivery",189
+271,"T-WEB-700 - Addressing a clear and organized speech",132
+176,"T-DEV-700 - Using project management tools",175
+1458,"T-WEB-800 - Calling external resources and services",216
+188,"T-POO-700 - Using a versioning tool",186
+170,"T-PRO-000 - Giving a talk in front of students",169
+168,"T-PRO-000 - Organizing a conference",167
+187,"T-DEV-700 - Using a versioning tool",186
+1731,"T-PRO-000 - Optimizing an algorithm tuning",1390
+202,"T-DEV-700 - Drawing a use-case diagram",201
+1742,"T-PRO-000 - Building a functional test sequence",224
+195,"T-DEV-700 - Drawing a class diagram",194
+174,"T-POO-700 - Using specific tools to collaborate as a team",172
+295,"T-WEB-700 - Using project management tools",175
+192,"3.3 Copyright and licences",178
+1747,"T-PRO-000 - Producing fast code",1309
+197,"T-DEV-700 - Drawing an activity diagram",196
+1459,"T-DEV-800 - Building a unit test",222
+272,"T-WEB-700 - Supporting a talk with relevant slides",128
+289,"1.3.B02 - Create session tokens",141
+204,"T-DEV-700 - Providing a final quality assessment process",203
+278,"T-NSA-700 - Documenting infrastructure architecture",277
+284,"T-NSA-700 - Finding how to deploy a PHP application",281
+408,"T-PSP-700 - Video-teasing a project",132
+1214,"T-NSA-810 - Addressing a clear and organized speech",132
+219,"T-DEV-700 - Refering to a design pattern",218
+1564,"T-MAJ-800 - Behaving decently on professional forums",386
+232,"5.3.B01 - Take part in HUB activities",231
+1221,"T-NSA-810 - Answering questions",136
+209,"T-DEV-700 - Handling events in a HMI",208
+1584,"T-MAJ-800 - Connecting the HMI to functional parts",208
+213,"T-DEV-700 - Crafting a transmission protocol between two devices",212
+217,"T-DEV-700 - Transmitting information between two devices",216
+2788,"T-VIR-902 - Writing a game design document",240
+2221,"T-IOT-902 - Addressing a clear and organized speech",132
+311,"T-WEB-700 - Transmitting information using APIs",216
+1869,"T-DAT-901 - Answering questions",136
+233,"T-PRO-000 - Taking part in HUB activities",232
+223,"T-DEV-700 - Building a unit test",222
+215,"T-DEV-700 - Building a full unit test coverage",214
+225,"T-DEV-700 - Building a functional test sequence",224
+206,"T-DEV-700 - Isolating components in Docker containers",205
+211,"T-DEV-700 - Distributing the work along appropriate classes and avoiding extra static methods",210
+221,"T-DEV-700 - Organizing a component in packages and classes",220
+286,"T-WEB-700 - Storing data",142
+1796,"T-PRO-000 - Designing an innovative solution",442
+268,"5.0 Fundamentals",226
+2222,"T-AIA-902 - Addressing a clear and organized speech",132
+1222,"T-DEV-811 - Answering questions",136
+1474,"T-DEV-800 - Complying with the subject",228
+251,"T-POO-700 - Delivering a robust solution",249
+273,"T-WEB-700 - Answering questions",136
+250,"T-DEV-700 - Delivering a robust solution",249
+158,"2.3.B02 - Engage in extra curricular activities",157
+1897,"T-AIA-901 - Reformatting the data",1366
+279,"T-NSA-700 - Answering questions",136
+285,"T-NSA-700 - Updating database",142
+222,"3.4.B07 - Build a unit test",207
+1905,"T-DAT-901 - Delivering in time",183
+1947,"T-CLO-901 - Isolating hypervisors",205
+155,"T-DEV-700 - Sharing info on forums and such",154
+244,"T-DEV-700 - Writing software architecture specifications",243
+1392,"T-DIT-810 - Identifying the legal constraints",389
+157,"2.3 Engaging in citizenship through digital technologies",148
+1690,"T-PRO-000 - Adapting vectors of communication",380
+1565,"T-MAJ-800 - Exposing a solution for expertise",1263
+1732,"T-PRO-000 - Homogenizing the components",1582
+1751,"T-PRO-000 - Organizing and separate deployments",317
+2152,"T-ESP-902 - Promoting a project or oneself",1263
+239,"T-DEV-700 - Fixing steps (deliveries and non-regression tests)",238
+1585,"T-MAJ-800 - Crafting an API",212
+296,"T-NSA-700 - Using project management tools",175
+2223,"T-AIA-902 - Supporting a talk with relevant slides",128
+1223,"T-NSA-810 - Finding the proper access to VM monitoring",281
+1798,"T-PRO-000 - Hacking  a tool",1290
+260,"T-POO-700 - Proving flexibility and reactivity to client needs",259
+291,"T-WEB-700 - Keeping session tokens available",289
+1566,"T-MAJ-800 - Delivering in time",183
+1735,"T-PRO-000 - Handling events in a HMI",208
+298,"T-WEB-700 - Delivering in time",183
+1342,"T-DIT-810 - Supporting a talk with relevant slides",128
+293,"T-WEB-700 - Sharing info on forums and such",154
+1586,"T-MAJ-800 - Crafting an transmission protocol",212
+1656,"T-PRO-000 - Writing a concise document",410
+1491,"T-NSA-800 - Locating backend logs",280
+1593,"T-MAJ-800 - Caching data",1309
+1601,"T-MAJ-800 - Limitating infra capabilities",1509
+1658,"T-PRO-000 - Defining procedures",1488
+257,"T-POO-700 - Crafting a transmission protocol between two devices",212
+1691,"T-PRO-000 - Sharing work to be reviewed",382
+1695,"T-PRO-000 - Giving feedback",1251
+1756,"T-PRO-000 - Improving infrastructure safety",1509
+256,"T-POO-700 - Coding in accordance with the functional paradigm",255
+262,"T-DEV-700 - Addressing a clear and organized speech",132
+258,"T-POO-700 - Addressing a clear and organized speech",132
+274,"T-WEB-700 - Arguing one's opinion",134
+275,"T-NSA-700 - Addressing a clear and organized speech",132
+1653,"T-PRO-800 - Making a professional public presentation",367
+255,"3.4.B10 - Code in a functional paradigm-compliant way",207
+147,"T-POO-700 - Discriminating relevant information",145
+1224,"T-NSA-810 - Retrieving precise info about hosted services",281
+1498,"T-NSA-800 - Aggregating backend logs",1425
+2247,"T-IOT-902 - Keeping sensors data persistent",142
+1855,"T-CLO-901 - Addressing a clear and organized speech",132
+1376,"T-DEV-810 - Delivering in time",183
+129,"T-DEV-700 - Supporting a talk with relevant slides",128
+182,"T-POO-700 - Producing a clean code",180
+177,"T-POO-700 - Using project management tools",175
+190,"T-DEV-700 - Submitting a clean and well organised delivery",189
+299,"T-NSA-700 - Delivering in time",183
+294,"T-NSA-700 - Sharing info on forums and such",154
+300,"T-WEB-700 - Using a versioning tool",186
+185,"T-POO-700 - Delivering in time",183
+199,"T-DEV-700 - Writing code documentation",198
+242,"T-DEV-700 - Writing functional specifications",241
+230,"T-POO-700 - Complying with the subject",228
+246,"T-DEV-700 - Organizing a project in several independent components",245
+301,"T-NSA-700 - Using a versioning tool",186
+2224,"T-DAT-902 - Supporting a talk with relevant slides",128
+1567,"T-MAJ-800 - Using a versioning tool",186
+1462,"T-WEB-800 - Building a functional test sequence",224
+1837,"T-ESP-901 - Writing code documentation",198
+304,"T-WEB-700 - Producing a clean code",180
+305,"T-NSA-700 - Producing a clean code",180
+306,"T-WEB-700 - Delivering a robust solution",249
+307,"T-NSA-700 - Delivering a robust solution",249
+308,"T-WEB-700 - Crafting an API",212
+310,"T-WEB-700 - Transmitting information using an internal API",216
+302,"T-WEB-700 - Submitting a clean and well organised delivery",189
+409,"T-PSP-700 - Video-teasing a project",132
+325,"T-WEB-700 - Building a front-end with a Javascript framework",312
+319,"T-WEB-700 - Isolating components in Docker containers",205
+314,"T-WEB-700 - Developing an authentication method",313
+303,"T-NSA-700 - Submitting a clean and well organised delivery",189
+1689,"T-PRO-000 - Sharing info on Moodle forums",154
+318,"T-NSA-700 - Dissociating platform/infra/runtime deployment from application deployment",317
+316,"T-NSA-700 - Delivering a software with reduced downtime",315
+1664,"T-PRO-000 - Locating logs",280
+1692,"T-PRO-000 - Designing a user interface",1245
+329,"4.2.B04 - Lock data",252
+1762,"T-PRO-000 - Locking data",329
+322,"T-NSA-700 - Ensuring quality in production environment",320
+324,"T-WEB-700 - Using node.js",312
+333,"T-NSA-700 - Storing secrets",327
+334,"T-WEB-700 - Protecting data",327
+335,"T-NSA-700 - Preventing data leak",328
+336,"T-NSA-700 - Locking infrastructure data",329
+337,"T-WEB-700 - Managing access",330
+338,"T-WEB-700 - Securizing client/server communication",331
+1668,"T-PRO-000 - Getting data from an external device",1225
+1343,"T-DIT-810 - Communicating outside your company to clients or institutions",367
+1568,"T-MAJ-800 - Producing a clean code",180
+423,"T-ESP-700 - Optimising a video",422
+340,"T-NSA-700 - Complying with the subject",228
+346,"T-NSA-700 - Garanteing uptime: fast rollback",341
+398,"T-DIT-700 - Proving flexibility and reactivity to client needs",259
+349,"T-WEB-700 - Orchestrating with Docker",344
+1711,"T-PRO-000 - Delivering in time",183
+350,"T-WEB-700 - Defining the visitor role",345
+1768,"T-PRO-000 - Ensuring electrical safety",1323
+1499,"T-NSA-800 - Sharing info on forums and such",154
+351,"T-WEB-700 - Organizing code according to a 3-tier architecture",245
+332,"T-NSA-700 - Keeping environment variables coherent",326
+353,"T-NSA-700 - Identifying developpers needs",352
+1655,"T-PRO-000 - Documenting produced work",277
+356,"T-NSA-700 - Automating deployment process",355
+357,"T-NSA-700 - Using CI/CD",355
+359,"T-WEB-700 - Proposing a guided tour",358
+361,"T-WEB-700 - Consuming RSS feeds",360
+347,"T-NSA-700 - Deploying automatically quickly",342
+339,"T-WEB-700 - Complying with the subject",228
+363,"T-WEB-700 - Defining the admin role",362
+365,"T-NSA-700 - Restarting services automatically after incident",343
+383,"T-DIT-700 - Sharing work to be reviewed",382
+379,"T-DIT-700 - Sharing info on forums and such",154
+309,"T-WEB-700 - Authentication via Oauth (Google/FB/…)",216
+1854,"T-WEB-700 - Using an indexation tool",1388
+431,"T-ESP-700 - Delivering in time",183
+369,"T-DIT-700 - Communicating outside your company to clients or institutions",367
+384,"T-DIT-700 - Using specific tools to collaborate as a team",172
+370,"T-DIT-700 - Communicating to early adopters involved in the project",368
+371,"T-DIT-700 - Answering questions",136
+450,"T-ESP-700 - Setting up an environment for recruitment",402
+373,"T-DIT-700 - Researching existing technologies and solutions",372
+1569,"T-MAJ-800 - Delivering a robust solution",249
+386,"2.5.B02 - Behave decently on professional forums",149
+381,"T-DIT-700 - Proposing devices of ascendant communication with users",380
+364,"T-NSA-700 - Automating rollback",343
+375,"T-DIT-700 - Complying with an existing method",374
+378,"T-DIT-700 - Drafting a SWOT analysis",377
+1733,"T-PRO-000 - Keeping a legal watch",389
+385,"T-DIT-700 - Using project management tools",175
+387,"T-DIT-700 - Behaving decently on Discord",386
+388,"T-DIT-700 - Delivering in time",183
+390,"T-DIT-700 - Keeping a legal watch",389
+392,"T-DIT-700 - Proposing inclusive communication devices/vectors adapted to disabled users",391
+1216,"T-ESP-800 - Supporting a talk with relevant slides",128
+1856,"T-DAT-901 - Addressing a clear and organized speech",132
+1604,"4.1.B09 - Regulate data transmission channels",248
+396,"T-DIT-700 - Analyze the impact of the solution on environnement",395
+397,"T-DIT-700 - Complying with the subject",228
+2158,"T-ESP-902 - Writing code documentation",198
+411,"T-ESP-700 - Writing a 50-word document",410
+403,"T-DIT-700 - Tayloring existing procedures to set up change",402
+416,"T-DIT-700 - Taking into account given documents regarding a use case",414
+399,"T-DIT-700 - Writing operational specifications",352
+1594,"T-MAJ-800 - Accelerating algorithm training",1309
+401,"T-DIT-700 - Taking into account the budget and financial aspects of the project",400
+394,"T-DIT-700 - Using digital technologies to improve well-being",393
+405,"T-DIT-700 - Identifying the specific early adopters needed to implement the project",404
+430,"T-ESP-700 - Adapting communication to the specific audience",429
+412,"T-ESP-700 - Writing a document specifying user needs",410
+1659,"T-PRO-000 - Understanding given instructions",413
+421,"T-ESP-700 - Estimating the amount of work",420
+407,"T-DIT-700 - Showing understanding of the importance of training",406
+366,"T-DIT-700 - Addressing a clear and organized speech",132
+424,"T-PSP-700 - Sharing info on forums and such",154
+415,"T-PSP-700 - Understanding given instructions on Gandalf",413
+418,"T-PSP-700 - Evaluating a video",417
+419,"T-PSP-700 - Evaluating a video",417
+426,"T-PSP-700 - Exposing an idea through a video",425
+1463,"T-DEV-800 - Developing an authentication method",313
+1217,"T-NSA-810 - Supporting a talk with relevant slides",128
+1344,"T-DEV-810 - Writing a data-scientist notebook",410
+2071,"T-VIR-902 - Complying with the subject",228
+1242,"T-ESP-800 - Sharing info on forums and such",154
+2248,"T-AIA-902 - Displaying complex data",290
+1595,"T-MAJ-800 - Dissociating platform/infra/runtime deployment from application deployment",317
+444,"T-PSP-700 - Recruiting the proper coworkers",404
+445,"T-PSP-700 - Describing one's own competencies",404
+434,"T-ESP-700 - Using digital technologies to improve well-being",393
+427,"T-DIT-700 - Using a common working repository",172
+437,"T-ESP-700 - Complying with the subject",228
+433,"T-ESP-700 - Producing a video",432
+436,"T-ESP-700 - Using digital technologies to coppe with environmental issues",435
+438,"T-ESP-700 - Writing functional specifications",241
+439,"T-ESP-700 - Writing non-functional specifications",240
+441,"T-ESP-700 - Translating user needs",352
+443,"T-ESP-700 - Designing a creative solution",442
+1696,"T-PRO-000 - Exposing a personal idea",425
+1763,"T-PRO-000 - Managing access",330
+425,"2.2.B04 - Expose a personal idea",164
+1348,"T-DEV-810 - Answering questions",136
+1857,"T-IOT-901 - Addressing a clear and organized speech",132
+1870,"T-IOT-901 - Answering questions",136
+1871,"T-AIA-901 - Answering questions",136
+449,"T-PSP-700 - Behaving constructively on forums",448
+1218,"T-DEV-811 - Supporting a talk with relevant slides",128
+1828,"T-ESP-901 - Assessing produced work",1232
+2097,"T-DIT-901 - Defining strategical scenario",1814
+432,"3.1.B06 - Produce a video",193
+440,"T-ESP-700 - Proving flexibility and reactivity to client needs",259
+1475,"T-WEB-800 - Complying with the subject",228
+2225,"T-IOT-902 - Supporting a talk with relevant slides",128
+1500,"T-NSA-800 - Using project management tools",175
+1596,"T-MAJ-800 - Isolating components in Docker containers",205
+1602,"T-MAJ-800 - Automating database backup",1520
+1607,"T-MAJ-800 - Defining a password policy",328
+130,"T-POO-700 - Supporting a talk with relevant slides",128
+1243,"T-NSA-810 - Sharing info on forums and such",154
+1506,"T-NSA-800 - Automating plateform modifications",1297
+1608,"T-MAJ-800 - Locking infrastructure data",329
+1611,"T-MAJ-800 - Securizing client/server communication",331
+1697,"T-PRO-000 - Sharing the display of a connected device",1253
+1766,"T-PRO-000 - Taking handicaps into consideration when offering a service",391
+2125,"T-EPI-000 - Organizing a conference",167
+1480,"T-WEB-800 - Proving flexible and reactive to client needs",259
+1858,"T-AIA-901 - Addressing a clear and organized speech",132
+1229,"T-ESP-800 - Discriminating relevant information",145
+1227,"T-DEV-811 - Using sensors to collect data",1225
+1603,"T-MAJ-800 - Securizing databases backups",1520
+1609,"T-MAJ-800 - Managing access",330
+1464,"T-WEB-800 - Developing an authentication method",313
+193,"3.1 Developing digital content",178
+1377,"T-DIT-810 - Delivering in time",183
+1881,"T-IOT-901 - Investigating relevant obstacles preventing a solution",1355
+1244,"T-DEV-811 - Sharing info on forums and such",154
+139,"1. Information and data literacy",
+1219,"T-NSA-810 - Writing a vulnerability report",277
+247,"4. Safety",
+265,"3.0 Fundamentals",178
+164,"2.2 Sharing through digital technologies",148
+1228,"T-DEV-811 - Getting relevant 3D-models",1226
+1859,"T-CLO-901 - Supporting a talk with relevant slides",128
+1570,"T-MAJ-800 - Drawing a use-case diagram",201
+2227,"T-AIA-902 - Writing a data-scientist report",410
+1239,"T-NSA-810 - Logging API calls",1238
+1231,"T-ESP-800 - Evaluating the quality of the produced work during the previous sprint",1230
+2250,"T-IOT-902 - Displaying the sensors status",290
+1597,"T-MAJ-800 - Building safe requests to the database",269
+1233,"T-ESP-800 - Assessing produced work",1232
+1349,"T-DIT-810 - Answering questions",136
+1476,"5.1.B10 - Fit an HMI to required functionalities",227
+1354,"T-DIT-810 - Researching existing technologies and solutions",372
+1356,"T-DIT-810 - Taking into account various constraints of a given problem ",1355
+1360,"T-DEV-810 - Compensating the lack of heterogeneity of the initial dataset",1230
+1654,"T-PRO-000 - Making a professional presentation to other departments",368
+1683,"T-PRO-000 - Optimising images and videos",422
+1693,"T-PRO-000 - Connecting two distant machines",1247
+2126,"T-EPI-000 - Taking part in community projects",160
+2251,"T-IOT-902 - Consuming structured data from an external source",360
+1361,"T-DEV-810 - Assessing quality of process and results",1232
+1358,"T-DIT-810 - Discriminating relevant information",145
+1363,"T-DIT-810 - Analyzing the results of the interviews by the group",1362
+1357,"T-DEV-810 - Choosing relevant metrics",1362
+1369,"T-DIT-810 - Sharing info on forums and such",154
+1350,"T-DEV-810 - Arguing one's opinion",134
+1235,"T-NSA-810 - Identifying vulnerable artefacts",1234
+1465,"T-WEB-800 - Delivering a responsive app",312
+1571,"T-MAJ-800 - Drawing a class diagram",194
+1237,"T-NSA-810 - Centralizing containers management",1236
+2252,"T-AIA-902 - Designing an ergonomic user-interface ",1245
+1623,"T-MAJ-800 - Guaranteeing uptime: fast rollback",341
+2812,"T-DAT-902 - Automating data patching",1297
+1255,"2.2.B06 - Share artifacts",164
+1251,"2.1.B07 - Give feedback",153
+1860,"T-DAT-901 - Supporting a talk with relevant slides",128
+1872,"T-DAT-901 - Arguing one's opinion",134
+1248,"T-NSA-810 - Connecting the back and the front",1247
+1241,"T-DEV-811 - Enhancing expressiveness of the simulation",1240
+1256,"T-NSA-810 - Sharing artifacts",1255
+1250,"T-NSA-810 - Connecting the back and the front containers",1249
+1246,"T-DEV-811 - Designing an HMI",1245
+1252,"T-ESP-800 - Giving feedback",1251
+1254,"T-DEV-811 - Sharing smartphone display",1253
+1257,"T-ESP-800 - Using project management tools",175
+1258,"T-NSA-810 - Using project management tools",175
+1259,"T-DEV-811 - Using project management tools",175
+1466,"T-WEB-800 - Developping using a Javascript framework",312
+2279,"T-IOT-902 - Using libraries",1388
+1277,"T-DEV-811 - Delivering a robust solution",249
+1262,"T-ESP-800 - Behaving decently on forums",150
+1264,"T-ESP-800 - Promoting through Moodle forum",1263
+1861,"T-AIA-901 - Supporting a talk with relevant slides",128
+1694,"T-PRO-000 - Connecting two containers",1249
+1265,"T-ESP-800 - Delivering in time",183
+1266,"T-NSA-810 - Delivering in time",183
+1316,"T-NSA-810 - Keeping a clean production environment",320
+1713,"T-PRO-000 - Submiting a clean and well organised delivery",189
+1267,"T-DEV-811 - Delivering in time",183
+1268,"T-ESP-800 - Using a versioning tool",186
+1269,"T-DEV-811 - Using a versioning tool",186
+1270,"T-ESP-800 - Submitting a clean and well organised delivery",189
+1271,"T-NSA-810 - Submitting a clean and well organised delivery",189
+1275,"T-ESP-800 - Producing a clean code",180
+1272,"T-DEV-811 - Submitting a clean and well organised delivery",189
+1276,"T-DEV-811 - Producing a clean code",180
+1278,"T-ESP-800 - Writing code documentation",198
+1274,"T-ESP-800 - Facilitating newbies integration",1273
+1572,"T-MAJ-800 - Drawing an activity diagram",196
+1573,"T-MAJ-800 - Writing code documentation",198
+1280,"T-ESP-800 - Using CI/CD",355
+1281,"T-NSA-810 - Using CI/CD",355
+1284,"T-NSA-810 - Taking ownership of an existing plateform",1283
+1761,"T-PRO-000 - Strengthening security using a password policy",328
+1467,"T-DEV-800 - Caching queries' outputs",1309
+1282,"T-ESP-800 - Proposing a tutorial and/or a guided tour",358
+1285,"T-NSA-810 - Taking ownership of existing code",1283
+1862,"T-IOT-901 - Supporting a talk with relevant slides",128
+1873,"T-IOT-901 - Arguing one's opinion",134
+1288,"T-DEV-811 - Overlaying data",1286
+2228,"T-DAT-902 - Writing a data-scientist notebook",410
+2122,"T-EPI-000 - Arguing one's opinion",134
+1291,"T-ESP-800 - Automating generation of documentation",1289
+1298,"T-NSA-810 - Automating patching",1297
+2253,"T-IOT-902 - Taking part in community projects",160
+1293,"T-ESP-800 - Automating tests launching",1292
+1296,"T-NSA-810 - Automating test coverage evaluation",1292
+1299,"T-NSA-810 - Exploiting vulnerabilities to jump from host to host",1295
+1428,"T-DEV-800 - Sharing info on forums and such",154
+1301,"T-DEV-811 - Transmitting information from the single-board microcontroller to AR app",216
+1302,"T-NSA-810 - Exploiting vulnerabilities to escalate privilege",1294
+1279,"T-ESP-800 - Recruiting the proper coworkers",404
+1304,"T-DEV-811 - Using a sensor with creativity",1290
+1305,"T-NSA-810 - Testing in a CI/CD",224
+1468,"T-WEB-800 - Caching third-party API responses",1309
+2229,"T-AIA-902 - Answering questions",136
+1307,"T-DEV-811 - Utilizing an AR framework",1306
+1321,"T-DEV-811 - Selecting a pathfinding algorithm",1318
+1308,"T-DEV-811 - Printing trashcans",1287
+1310,"T-DEV-811 - Producing a fast code",1309
+1312,"3.4.B15 - Recognize a pattern in an image",207
+1311,"T-NSA-810 - Bypassing password typing",402
+1313,"T-DEV-811 - Recognizing a trashcan in the camera output",1312
+1907,"T-CLO-901 - Delivering in time",183
+1323,"4.3.B03 - Ensure electrical safety",253
+1314,"T-ESP-800 - Improving specifications",402
+1315,"T-NSA-810 - Isolating components in Docker containers",205
+1574,"T-MAJ-800 - Producing a video",432
+1698,"T-PRO-000 - Sharing artifacts",1255
+1319,"T-DEV-811 - Ensuring devices safety",1317
+1699,"T-PRO-000 - Sharing an organized set of documents",1370
+1320,"T-NSA-810 - Defining and applying a password policy",328
+1322,"T-NSA-810 - Reinforcing acess management",330
+1773,"T-PRO-000 - Deploying quickly",342
+1324,"T-ESP-800 - Proving flexibility and reactivity to client needs",259
+1325,"T-DEV-811 -  Ensuring connections safety of each component",1323
+1303,"T-DEV-811 - Transmitting information from the AR app to the single-board microcontroller",216
+1327,"T-NSA-810 - Complying with the subject",228
+1328,"T-NSA-810 - Grouping coherently services",245
+1329,"T-DEV-811 - Complying with the subject",228
+1331,"T-NSA-810 - Restarting services automatically",343
+1575,"T-MAJ-800 - Setting up CI/CD",355
+1332,"T-NSA-810 - Managing dockers with Portainer",344
+1477,"T-DEV-800 - Fitting an HMI to required functionalities",1476
+1334,"T-DEV-811 - Identifying users behavior/Preview possible scenario",1330
+1588,"T-MAJ-800 - Building a full unit test coverage",214
+2230,"T-DAT-902 - Answering questions",136
+1598,"T-MAJ-800 - Deleting old logs",1317
+1336,"T-NSA-810 - Setting up a dynamic DNS",1335
+1429,"T-WEB-800 - Sharing info on forums and such",154
+1700,"T-PRO-000 - Participating in a social action",1372
+1351,"T-DIT-810 - Arguing one's opinion",134
+1452,"T-DEV-800 - Connecting the HMI to functional part through some events management system",208
+2163,"T-ESP-902 - Building a full unit test coverage",214
+2290,"T-IOT-902 - Using digital technologies to monitor environmental metrics",435
+1333,"T-NSA-810 - Identifying the source of SSH deconnections",1330
+1338,"T-NSA-810 - Patching vulnerable artefacts",1337
+1669,"T-PRO-000 - Getting relevant 3D-models",1226
+154,"2.1.B01 - Share info on Moodle forums",153
+1326,"T-ESP-800 - Complying with the subject",228
+1347,"T-DIT-810 - Using the UX methodology to write a questionnaire",1346
+1469,"T-DEV-800 - Isolating components in Docker containers",205
+1364,"T-DEV-810 - Keeping persistent the parameters resulting from training phase",142
+1365,"T-DEV-810 - Displaying complex data",290
+1367,"T-DEV-810 - Exporting notebook into a common format",1366
+1589,"T-MAJ-800 - Building a functional test sequence",224
+1371,"T-DIT-810 - Sharing the set of background search documents used to frame the topic",1370
+1374,"T-DEV-810 - Using project management tools",175
+1375,"T-DIT-810 - Using project management tools",175
+1373,"T-DIT-810 - Fetching info to support medical research",1372
+2231,"T-IOT-902 - Answering questions",136
+1378,"T-DEV-810 - Using a versioning tool",186
+1379,"T-DEV-810 - Submitting a clean and well organised delivery",189
+1785,"T-PRO-000 - Fixing steps (deliveries and non-regression tests)",238
+1380,"T-DEV-810 - Producing a clean code",180
+1381,"T-DEV-810 - Delivering a robust solution",249
+1874,"T-AIA-901 - Arguing one's opinion",134
+1576,"T-MAJ-800 - Overlaying data",1286
+1368,"T-DEV-810 - Sharing info on forums and such",154
+1885,"T-AIA-901 - Increasing heterogeneity of a dataset",1230
+1712,"T-PRO-000 - Using a versioning tool",186
+1495,"T-NSA-800 - Defining some alerts",1362
+1382,"T-DIT-810 - Setting up the possibility to test one's solution with the final user",203
+1470,"T-DEV-800 - Building safe requests to the database",269
+1385,"T-DIT-810 - Crafting a synthesis document ",1384
+1387,"T-DEV-810 -  Batch creating images for training",1386
+1389,"T-DEV-810 - Using a ML library",1388
+1391,"T-DEV-810 - Tuning parameters of a ML algorithm",1390
+1478,"T-DEV-800 - Writing functional specifications",241
+2254,"T-AIA-902 - Using project management tools",175
+2298,"T-AIA-902 - Benchmarking algorithms",1318
+1485,"T-NSA-800 - Addressing a clear and organized speech",132
+127,"0.3 Written Production",124
+2813,"T-DAT-902 - Developping using a Javascript framework",312
+1502,"T-NSA-800 - Using a versioning tool",186
+1577,"T-MAJ-800 - Automating documentation of coded functions",1289
+1864,"T-IOT-901 - Documenting produced work",277
+2302,"T-IOT-902 - Crafting an air quality sensor",1287
+1590,"T-MAJ-800 - Developing a generic authentication method",313
+1675,"T-PRO-000 - Evaluating the quality of digital content",1230
+241,"5.2.B01 - Write functional specifications",237
+2255,"T-DAT-902 - Using project management tools",175
+1471,"T-DEV-800 - Managing access",330
+1396,"T-DIT-810 - Suggesting solutions to implement safety measures for devices",1317
+1685,"T-PRO-000 - Enhancing expressiveness of the simulation",1240
+1578,"T-MAJ-800 - Automating tests launching",1292
+1479,"T-DEV-800 - Organizing a project in several independent components",245
+1591,"T-MAJ-800 - Developping using a Javascript framework",312
+376,"T-DIT-700 - Discriminating failure pitfalls",145
+1393,"T-DEV-810 - Accelerating algorithm training",1309
+1503,"T-NSA-800 - Delivering a robust solution",249
+1449,"T-DEV-800 - Using a library to take pictures",1388
+1507,"T-NSA-800 - Reducing downtime during incidents",315
+1508,"T-NSA-800 - Deleting old logs",1317
+1412,"T-DIT-810 - Identifying skills needed to complete the project",1411
+1770,"T-PRO-000 - Using digital technologies to coppe with environmental issues",435
+1497,"T-NSA-800 - Displaying infrastructure status",290
+1505,"T-NSA-800 - Taking ownership of an existing plateform",1283
+1511,"T-NSA-800 - Suggesting safety improvements",1397
+1394,"3.4.B16 - Develop a complex algorithm",207
+1769,"T-PRO-000 - Being aware of the environmental impact of digital technologies and their use",395
+1513,"T-NSA-800 - Guaranteing a fast recovery",341
+1496,"T-NSA-800 - Backing up a database",1520
+2111,"T-DIT-901 - Assisting users in using an application",358
+2099,"T-DIT-901 - Writing software architecture specifications",243
+1636,"5.2.B10 - Adapt wireless transmission",237
+1287,"5.3.B04 - Craft an object",231
+2256,"T-IOT-902 - Using project management tools",175
+1398,"T-DIT-810 - Considering the security of the medical and personal data sensitivity",1397
+1686,"T-PRO-000 - Centralizing tasks",1236
+1405,"T-DEV-810 - Benchmarking algorithms",1318
+447,"T-PSP-700 - Using specific tool to collaborate",172
+1399,"T-DIT-810 - Considering handicaps and impairments in the solution",391
+2263,"T-AIA-902 - Submitting a clean and well organised delivery",189
+1406,"T-DIT-810 - Designing a creative solution",442
+1400,"T-DEV-810 - Complying with the subject",228
+1401,"T-DIT-810 - Complying with the subject",228
+1402,"T-DIT-810 - Writing non-functional specifications",240
+1403,"T-DIT-810 - Proving flexibility and reactivity to client needs",259
+1407,"T-DEV-810 - Mixing training and testing datasets",1290
+1408,"T-DEV-810 - Giving instructions to read the notebook",358
+1409,"T-DIT-810 - Helping people to set up the DMP",358
+1657,"T-PRO-000 - Adapting communication scheme to an objective",1346
+1410,"T-DIT-810 - Listing training actions needed to implement the suggested solution",406
+124,"0. Expression",
+148,"2. Communication and collaboration",
+1797,"T-PRO-000 - Crafting an object",1287
+1670,"T-PRO-000 - Investigating relevant obstacles preventing a solution",1355
+178,"3. Digital content creation",
+1341,"T-DEV-810 - Supporting a talk with relevant slides",128
+1215,"T-DEV-811 - Addressing a clear and organized speech",132
+1300,"T-ESP-800 - Keeping a legal watch",389
+1472,"T-WEB-800 - Securizing client/server communication",331
+1605,"T-MAJ-800 - Limitating open ports",1604
+1580,"T-MAJ-800 - Using a AR/VR library",1388
+153,"2.1 Interacting through digital technologies",148
+2814,"T-DAT-902 - Use an application development framework",1306
+144,"1.2 Evaluating data, information and digital content",139
+141,"1.3 Managing data, information and digital content",139
+1486,"T-NSA-800 - Supporting a talk with relevant slides",128
+1707,"T-PRO-000 - Behaving decently on professional forums",386
+252,"4.2 Protecting personal data and privacy",247
+126,"0.4 Written Reception",124
+140,"1.1 Browsing, searching and filtering data, information and digital content",139
+1490,"T-NSA-800 - Answering questions",136
+226,"5. Problem solving",
+1916,"T-IOT-901 - Producing a clean code",180
+131,"0.1 Oral Production",124
+133,"0.5 Interaction",124
+1581,"T-MAJ-800 - Tuning parameters of a ML algorithm",1390
+2257,"T-AIA-902 - Delivering in time",183
+231,"5.3 Creatively using digital technologies",226
+253,"4.3 Protecting health and well-being",247
+1413,"T-DEV-800 - Addressing a clear and organized speech",132
+1414,"T-WEB-800 - Addressing a clear and organized speech",132
+1415,"T-DEV-800 - Supporting a talk with relevant slides",128
+1416,"T-WEB-800 - Supporting a talk with relevant slides",128
+1417,"T-DEV-800 - Answering questions",136
+1418,"T-WEB-800 - Answering questions",136
+1420,"T-DEV-800 - Storing different kinds of data in an appropriate way",142
+1422,"T-WEB-800 - Consuming third party API",360
+1423,"T-DEV-800 - Images sizes are optimized",422
+1424,"T-WEB-800 - Exporting in an adapted format",1366
+1426,"T-DEV-800 - Providing a tool to ease data access",1425
+1427,"T-WEB-800 - Providing a tool to ease data access",1425
+1431,"T-WEB-800 - Sharing roadmaps",1430
+2320,"T-CLO-902 - Ensuring data persistence",142
+1432,"T-DEV-800 - Using project management tools",175
+1671,"T-PRO-000 - Discriminating relevant information",145
+1433,"T-WEB-800 - Using project management tools",175
+1434,"T-DEV-800 - Delivering in time",183
+1435,"T-WEB-800 - Delivering in time",183
+1436,"T-DEV-800 - Using a versioning tool",186
+1437,"T-WEB-800 - Using a versioning tool",186
+1438,"T-DEV-800 - Submitting a clean and well organised delivery",189
+1439,"T-WEB-800 - Submitting a clean and well organised delivery",189
+1440,"T-DEV-800 - Producing a clean code",180
+1441,"T-WEB-800 - Producing a clean code",180
+1687,"T-PRO-000 - Reformating data",1366
+1442,"T-DEV-800 - Delivering a robust solution",249
+1443,"T-WEB-800 - Delivering a robust solution",249
+1444,"T-DEV-800 - Writing code documentation",198
+1445,"T-WEB-800 - Writing code documentation",198
+1446,"T-WEB-800 - Setting a continuous integration process",355
+1447,"T-WEB-800 - Overlaying data on a map",1286
+1448,"T-WEB-800 - Automating tests launching",1292
+1716,"T-PRO-000 - Drawing a use-case diagram",201
+1450,"T-DEV-800 - Using an image compression library",1388
+1451,"T-WEB-800 - Providing a tool for plain text searching",1388
+1453,"T-DEV-800 - Distributing the work along appropriate classes and avoiding extra static methods",210
+1454,"T-DEV-800 - Crafting an API",212
+1455,"T-WEB-800 - Crafting a transmission protocol between two devices",212
+1456,"T-DEV-800 - Transmitting information using an internal API",216
+1612,"T-MAJ-800 - Suggesting safety improvements",1397
+1808,"T-DIT-700 - Identifying risk factors",1355
+1510,"T-NSA-800 - Limiting infra capabilities",1509
+1672,"T-PRO-000 - Evaluating the feasability of a solution",377
+1599,"T-MAJ-800 - Ensuring devices safety",1317
+2258,"T-DAT-902 - Delivering in time",183
+1515,"T-NSA-800 - Identyfing anomalies",1330
+1516,"T-NSA-800 - Communicate to end-users about failure",259
+1517,"T-NSA-800 - Preventing pedago's access",402
+248,"4.1 Protecting devices",247
+1518,"T-WEB-800 - Automating documentation of coded functions",1289
+1519,"T-WEB-800 - Designing a user interface",1245
+1807,"T-DIT-700 - Synthetizing a method for change management",410
+1430,"2.3.B04 - Facilitate users sharing",157
+1887,"T-AIA-901 - Assessing quality of process and results",1232
+227,"5.1 Solving technical problems",226
+1618,"T-MAJ-800 - Complying with the subject",228
+1701,"T-PRO-000 - Facilitating users sharing",1430
+1774,"T-PRO-000 - Automating recovery",343
+2259,"T-IOT-902 - Respecting delivery requirements",183
+1673,"T-PRO-000 - Evaluating a video",417
+2100,"T-DIT-901 - Identifying implementation steps",238
+2077,"T-VIR-902 - Assisting users in using an application",358
+1815,"T-DIT-700 - Crafting a global strategy for change management",1814
+1702,"T-PRO-000 - Using specific tools to collaborate as a team",172
+1720,"T-PRO-000 - Writing code documentation",198
+382,"2.1.B03 - Share work to be reviewed",153
+2815,"T-CLO-902 - Aggregating app and system metrics",1425
+2264,"T-DAT-902 - Submitting a clean and well organised delivery",189
+2280,"T-AIA-902 - Optimizing an algorithm tuning",1390
+1600,"T-MAJ-800 - Ensuring database safety",1317
+1619,"T-MAJ-800 - Complying with the subject",228
+2079,"T-DIT-901 - Addressing a clear and organized speech",132
+1814,"5.1.B11 - Define a global strategy",227
+1346,"0.3.B06 - Adapt communication scheme to an objective",127
+1709,"T-PRO-000 - Behaving constructively on forums",448
+1651,"T-PRO-800 - Addressing a clear and organized speech",132
+413,"0.4.B01 - Understand given instructions",126
+172,"2.4.B01 - Use specific tools to collaborate as a team",171
+196,"3.1.B03 - Draw an activity diagram",193
+1621,"T-MAJ-800 - Complying with the subject",228
+1625,"T-MAJ-800 - Restarting services automatically after incident",343
+1727,"T-PRO-000 - Automating generation of documentation",1289
+218,"3.4.B01 - Refer to a design pattern",207
+1542,"T-MAJ-800 - Choosing relevant monitoring metrics",1362
+2073,"T-SEC-902 - Defining highest privilege rights",362
+208,"3.4.B02 - Handle events in a HMI",207
+1397,"4.2.B07 - Suggest solution to avoid possible safety breach in data",252
+341,"5.1.B01 - Guarantee a low MTTR (Mean Time To Recovery)",227
+1876,"T-CLO-901 - Configurating hypervisors LAN",281
+1521,"T-MAJ-800 - Addressing a clear and organized speech",132
+1522,"T-MAJ-800 - Supporting a talk with relevant slides",128
+1523,"T-MAJ-800 - Communicating in a professional way",367
+1525,"T-MAJ-800 - Documenting infrastructure architecture",277
+1528,"T-MAJ-800 - Answering questions",136
+1529,"T-MAJ-800 - Arguing one's opinion",134
+1530,"T-MAJ-800 - Researching existing technologies and solutions",372
+1531,"T-MAJ-800 - Using sensors to collect data",1225
+1532,"T-MAJ-800 - Getting relevant 3D-models",1226
+1533,"T-MAJ-800 - Suggesting monitoring of the monitoring platform",1355
+1556,"T-MAJ-800 - Connecting sensors to cloud infrastructure",1247
+1534,"T-MAJ-800 - Taking into account various constraints of a given problem ",1355
+1535,"T-MAJ-800 - Sorting alerts severity",145
+1536,"T-MAJ-800 - Anticipating scaling issues",377
+1527,"T-MAJ-800 - Writing a disaster recovery plan",1488
+1703,"T-PRO-000 - Using project management tools",175
+2174,"T-PRO-000 - Summing up information from a talk",2113
+1734,"T-PRO-000 - Refering to a design pattern",218
+1704,"T-PRO-000 - Complying with corporate guidelines",1260
+1722,"T-PRO-000 - Creating a synthesis of documents",1384
+317,"4.1.B02 - Organize and separate deployments",248
+1552,"T-MAJ-800 - Sharing info on forums and such",154
+229,"T-DEV-700 - Complying with the subject",228
+1738,"T-PRO-000 - Crafting a transmission protocol between two devices",212
+1543,"T-MAJ-800 - Storing data",142
+1538,"T-MAJ-800 - Assessing produced work",1232
+1540,"T-MAJ-800 - Identifying vulnerable artefacts",1234
+1537,"T-MAJ-800 - Dealing with unclean data",1230
+1539,"T-MAJ-800 - Assessing quality of process and results",1232
+1544,"T-MAJ-800 - Monitoring the infrastructure status",290
+1545,"T-MAJ-800 - Displaying complex data",290
+1546,"T-MAJ-800 - Displaying complex data in a virtual environment",290
+1547,"T-MAJ-800 - Consuming third party API",360
+1549,"T-MAJ-800 - Centralizing containers management",1236
+1550,"T-MAJ-800 - Orchestrating connected devices",1236
+1553,"T-MAJ-800 - Setting up top down communication channels with all other team members",380
+1555,"T-MAJ-800 - Designing an admin interface",1245
+1836,"T-ESP-901 - Providing a final quality assessment process",203
+1557,"T-MAJ-800 - Sharing artifacts",1255
+1559,"T-MAJ-800 - Using project management tools",175
+1624,"T-MAJ-800 - Deploying quickly",342
+1551,"T-MAJ-800 - Reformating data in an adapted format",1366
+2265,"T-IOT-902 - Submitting a clean and well organised delivery",189
+1526,"T-MAJ-800 - Writing synthetical reports",410
+1548,"T-MAJ-800 - Enhancing expressiveness of the simulation",1240
+1554,"T-MAJ-800 - Designing an intuitive user interface",1245
+1745,"T-PRO-000 - Developing using a Javascript framework",312
+1562,"T-MAJ-800 - Participating in a code review within the dev group",1561
+1592,"T-MAJ-800 - Utilizing an AR framework",1306
+179,"3.2 Integrating and re-elaborating digital content",178
+1606,"T-MAJ-800 - Keeping environment variables coherent",326
+1617,"T-MAJ-800 - Complying with the subject",228
+1610,"T-MAJ-800 - Reinforcing access management",330
+2266,"T-AIA-902 - Producing a clean code",180
+1723,"T-PRO-000 - Creating a large set of files",1386
+1666,"T-PRO-000 - Implementing a technology watch",372
+328,"4.2.B03 - Strengthen security using a password policy",252
+1613,"T-MAJ-800 - Using digital technologies to improve well-being",393
+1614,"T-MAJ-800 -  Ensuring connections safety of each component",1323
+1615,"T-MAJ-800 - Analyze the impact of the solution on environnement",395
+1736,"T-PRO-000 - Organizing a code in logical entities",220
+1620,"T-MAJ-800 - Complying with the subject",228
+1622,"T-MAJ-800 - Complying with the subject",228
+395,"4.4.B01 - Be aware of the environmental impact of digital technologies and their use",254
+1882,"T-AIA-901 - Taking into account various constraints of a given problem ",1355
+1749,"T-PRO-000 - Developing a complex algorithm",1394
+435,"4.4.B02 - Use digital technologies to coppe with environmental issues",254
+1724,"T-PRO-000 - Automating deployment",355
+1743,"T-PRO-000 - Coding in a functional paradigm-compliant way",255
+1752,"T-PRO-000 - Virtuallying isolate components",205
+1777,"T-PRO-000 - Defining adminstrators access",362
+1780,"T-PRO-000 - Patching vulnerable artefacts",1337
+1783,"T-PRO-000 - Writing technical specifications",243
+1786,"T-PRO-000 - Organizing a project in several independent components",245
+1789,"T-PRO-000 - Taking into account budget and financial aspects of a project",400
+1792,"T-PRO-000 - Identifying the most suitable possible data",1637
+1809,"T-DIT-700 - Identifying relevant parameters to follow up on",1362
+1795,"T-PRO-000 - Breaking unadapted rules",402
+1520,"4.1.B08 - Backup a database",248
+1631,"T-MAJ-800 - Identifying user needs",352
+1627,"T-MAJ-800 - Orchestrating with Docker",344
+1628,"T-MAJ-800 - Writing functional specifications",241
+2083,"T-DIT-901 - Crafting a synthetic overview",410
+326,"4.2.B01 - Keep environment variables coherent",252
+2226,"T-IOT-902 - Documenting produced work",277
+1629,"T-MAJ-800 - Writing technical specifications",243
+160,"2.3.B01 - Take part in community projects",157
+343,"5.1.B03 - Automate recovery",227
+1633,"T-MAJ-800 - Estimating CLOUD budget needs",400
+1634,"T-MAJ-800 - Taking into account the budget and financial aspects of the project",400
+1635,"T-MAJ-800 - Benchmarking algorithms",1318
+1818,"T-DIT-700 - Celebrating success",1817
+1640,"T-MAJ-800 - Adapting wireless transmission to the case",1636
+1813,"T-DIT-700 - Creating training session contents",1812
+1643,"T-MAJ-800 - Complying with RGPD",1638
+2144,"T-ESP-902 - Writing a concise document",410
+1644,"T-MAJ-800 - Refering to an IT security framework",1639
+1632,"T-MAJ-800 - Taking into account budget and financial aspects of a project",400
+1642,"T-MAJ-800 - Placing the sensors at the best possible place",1637
+1705,"T-PRO-000 - Participating in a code review",1561
+1714,"T-PRO-000 - Producing a clean code",180
+1725,"T-PRO-000 - Taking ownership of legacy work",1283
+1757,"T-PRO-000 - Backuping a database",1520
+1767,"T-PRO-000 - Using digital technologies to improve well-being",393
+2175,"T-PRO-000 - Drafting a compelling communication plan",1810
+2177,"T-PRO-000 - Publishing on a public platform",2036
+1667,"T-PRO-000 - Complying with existing procedures",374
+1645,"T-MAJ-800 - Proposing a tutorial and/or a guided tour",358
+2268,"T-IOT-902 - Producing a clean code",180
+1646,"T-MAJ-800 - Identifying user needs",352
+1647,"T-MAJ-800 - Listing training actions",406
+1650,"T-MAJ-800 - Assisting users",358
+1791,"T-PRO-000 - Adapting wireless transmission to the client needs",1636
+1794,"T-PRO-000 - Refering to a standard",1639
+2321,"T-CLO-902 - Displaying metrics",290
+236,"5.4 Identifying digital competence gaps",226
+406,"5.4.B03 - Organize training sessions",236
+1706,"T-PRO-000 - Behaving decently on forums",150
+1660,"T-PRO-000 - Acknowledging given documents",414
+171,"2.4 Collaborating through digital technologies",148
+1715,"T-PRO-000 - Delivering a robust solution",249
+1726,"T-PRO-000 - Overlaying data",1286
+1737,"T-PRO-000 - Distributing the work along appropriate classes and avoiding extra static methods",210
+1744,"T-PRO-000 - Developing an authentication method",313
+1748,"T-PRO-000 - Recognizing a pattern in an image",1312
+1753,"T-PRO-000 - Ensuring code safety",269
+1758,"T-PRO-000 - Regulating data transmission channels",1604
+2148,"T-ESP-902 - Estimating the amount of work",420
+2157,"T-ESP-902 - Providing a final quality assessment process",203
+1878,"T-CLO-901 - Complying with AWS VM import procedure",374
+1898,"T-IOT-901 - Connecting two distant machines",1247
+1561,"2.4.B04 - Participate in a code review",171
+2269,"T-AIA-902 - Delivering a robust solution",249
+2314,"T-CLO-902 - Answering questions",136
+1759,"T-PRO-000 - Keeping environment variables coherent",326
+1764,"T-PRO-000 - Securizing communication",331
+1754,"T-PRO-000 - Ensuring deployment quality",320
+1771,"T-PRO-000 - Complying with specifications",228
+1775,"T-PRO-000 - Orchestrating ",344
+1778,"T-PRO-000 - Identifying an anomaly",1330
+1781,"T-PRO-000 - Fitting an HMI to required functionalities",1476
+1784,"T-PRO-000 - Writing non-functional specifications",240
+1787,"T-PRO-000 - Proving flexibility and reactivity to client needs",259
+1790,"T-PRO-000 - Selecting the most suitable algorithm",1318
+1793,"T-PRO-000 - Taking into account legal aspects of a project",1638
+402,"5.3.B02 - Break unadapted rules",231
+1352,"0.5.B03 - Get an interview with the user",133
+1663,"T-PRO-000 - Getting an interview with the user",1352
+1665,"T-PRO-000 - Finding non trivial technical points",281
+2085,"T-DIT-901 - Analyzing given documents and data to ease decision making",414
+2088,"T-DIT-901 - Researching existing technologies and solutions",372
+150,"2.5.B01 - Behave decently on forums",149
+1661,"T-PRO-800 - Answering questions",136
+2327,"T-CLO-902 - Connecting the containers",1249
+2354,"T-CLO-902 - Ensuring deployment quality",320
+1662,"T-PRO-800 - Arguing one's opinion",134
+414,"0.4.B02 - Work out meaning from written documents",126
+2316,"T-VIR-901 - Getting relevant 3D-models",1226
+1676,"T-PRO-000 - Assessing produced work",1232
+1674,"T-PRO-000 - Estimating an amount of work",420
+417,"1.2.B03 - Evaluate a video",144
+1677,"T-PRO-000 - Evaluating artefacts security using public vulnerabilities databases",1234
+1678,"T-PRO-000 - Identifying relevant criteria of analysis",1362
+1679,"T-PRO-000 - Keeping data persistent",142
+1680,"T-PRO-000 - Creating session tokens",289
+1681,"T-PRO-000 - Displaying complex data",290
+1682,"T-PRO-000 - Consuming structured data from an external source",360
+1708,"T-PRO-000 - Adapting communication to the specific audience",429
+1717,"T-PRO-000 - Drawing a class diagram",194
+1728,"T-PRO-000 - Automating tests launching",1292
+1739,"T-PRO-000 - Transmiting information between two entities",216
+1811,"T-DIT-700 - Drafting a compelling communication plan",1810
+1819,"T-DIT-700 - Identifying stakeholders",1816
+1866,"T-AIA-901 - Writing a data-scientist report",410
+1879,"T-IOT-901 - Using sensors to collect data",1225
+1684,"T-PRO-000 - Loging data in a file",1238
+1718,"T-PRO-000 - Drawing an activity diagram",196
+1729,"T-PRO-000 - Automating patching",1297
+1740,"T-PRO-000 - Building a unit test",222
+1746,"T-PRO-000 - Utilizing an application development framework",1306
+1750,"T-PRO-000 - Guaranteeing uptime",315
+1760,"T-PRO-000 - Storing safely personal data",327
+1765,"T-PRO-000 - Suggesting solution to avoid possible safety breach in data",1397
+1755,"T-PRO-000 - Ensuring devices safety",1317
+345,"5.1.B05 - Define public access",227
+1772,"T-PRO-000 - Guaranteing a low MTTR (Mean Time To Recovery)",341
+1776,"T-PRO-000 - Defining public access",345
+1779,"T-PRO-000 - Making IP automatically available",1335
+1782,"T-PRO-000 - Writing functional specifications",241
+2322,"T-VIR-901 - Optimizing 3d objects poly number",422
+2176,"T-PRO-000 - Setting up beta tests",2034
+1788,"T-PRO-000 - Identifying clients needs",352
+1799,"T-PRO-000 - Exploiting vertically vulnerable artefacts",1294
+1366,"1.3.B09 - Reformat data",141
+2281,"T-DAT-902 - Tuning parameters of an algorithm",1390
+169,"2.2.B02 - Give a talk in front of students",164
+1801,"T-PRO-000 - Assisting users in using an application",358
+1802,"T-PRO-000 - Recruiting the proper coworkers to fit a team",404
+1803,"T-PRO-000 - Organizing training sessions",406
+1804,"T-PRO-000 - Facilitating newbies integration",1273
+1806,"T-PRO-000 - Facilitating product acceptance",1648
+2291,"T-AIA-902 - Complying with the subject",228
+1805,"T-PRO-000 - Identifying required skills ",1411
+2112,"T-EPI-000 - Addressing a clear and organized speech",132
+1820,"T-DIT-700 - Drafting an adapted training plan",1411
+2184,"T-PRO-000 - Identifying stakeholders",1816
+237,"5.2 Identifying needs and technological responses",226
+125,"0.2 Oral Reception",124
+1230,"1.2.B05 - Evaluate the quality of digital content",144
+404,"5.4.B02 - Recruit the proper coworkers to fit a team",236
+1901,"T-DAT-901 - Using project management tools",175
+2816,"T-CLO-902 - Developing an authentication method",313
+313,"3.4.B11 - Develop an authentication method",207
+1295,"5.3.B07 - Exploit lateraly vulnerable artefacts",231
+1893,"T-AIA-901 - Displaying complex data",290
+2270,"T-DAT-902 - Delivering a robust solution",249
+1890,"T-IOT-901 - Keeping data persistent",142
+1306,"3.4.B13 - Utilize an application development framework",207
+1900,"T-IOT-901 - Using project management tools",175
+1902,"T-CLO-901 - Using project management tools",175
+1908,"T-IOT-901 - Using a versioning tool",186
+2299,"T-DAT-902 - Selecting the most suitable algorithm",1318
+2127,"T-EPI-000 - Engaging in extra curricular activities",158
+2129,"T-EPI-000 - Complying with corporate guidelines",1260
+2101,"T-DIT-901 - Proving flexibility and reactivity to client needs",259
+2089,"T-DIT-901 - Appraising obstacles",1355
+1225,"1.1.B05 - Get data from an external device",140
+1309,"3.4.B14 - Produce fast code",207
+2317,"T-VIR-901 - Anticipating XR pain points",1355
+1883,"T-AIA-901 - Discriminating relevant information",145
+1888,"T-DAT-901 - Identifying relevant topics and statistics",1362
+2325,"T-CLO-902 - Centralizing containers management",1236
+1868,"T-CLO-901 - Answering questions",136
+2271,"T-IOT-902 - Delivering a robust solution",249
+1903,"T-AIA-901 - Using project management tools",175
+1904,"T-IOT-901 - Delivering in time",183
+2123,"T-EPI-000 - Creating a tutorial",165
+1247,"2.1.B05 - Connect two distant machines",153
+1889,"T-AIA-901 - Choosing relevant metrics",1362
+1894,"T-IOT-901 - Consuming structured data from an external source",360
+1909,"T-DAT-901 - Using a versioning tool",186
+1910,"T-CLO-901 - Using a versionning tool",186
+1911,"T-AIA-901 - Using a versioning tool",186
+1912,"T-IOT-901 - Submitting a clean and well organised delivery",189
+1917,"T-DAT-901 - Producing a clean code",180
+2335,"T-CLO-902 - Delivering in time",183
+2323,"T-CLO-902 - Aggregating and displaying logs",1238
+2087,"T-DIT-901 - Arguing one's opinion",134
+2309,"T-VIR-901 - Supporting a talk with relevant slides",128
+2324,"T-VIR-901 - Enhancing expressiveness of the simulation",1240
+2310,"T-CLO-902 - Supporting a talk with relevant slides",128
+2319,"T-CLO-902 - Evaluating Helm artefacts security",1234
+1891,"T-CLO-901 - Managing statefiles",142
+1899,"T-CLO-901 - Setting up an IaaS",1247
+1896,"T-DAT-901 - Reformatting the data",1366
+1914,"T-DAT-901 - Submitting a clean and well organised delivery",189
+214,"3.4.B08 - Build a full unit test coverage",207
+224,"3.4.B09 - Build a functional test sequence",207
+1833,"T-ESP-901 - Using a versioning tool",186
+1834,"T-ESP-901 - Submitting a clean and well organised delivery",189
+1835,"T-ESP-901 - Producing a clean code",180
+1839,"T-ESP-901 - Automating generation of documentation",1289
+1840,"T-ESP-901 - Automating tests launching",1292
+1843,"T-ESP-901 - Complying with the subject",228
+1844,"T-ESP-901 - Proving flexibility and reactivity to client needs",259
+1845,"T-ESP-901 - Refering to a standard",1639
+1846,"T-ESP-901 - Assisting users in using an application",358
+1847,"T-ESP-901 - Facilitating newbies integration",1273
+2102,"T-DIT-901 - Translating user needs",352
+1920,"T-IOT-901 - Delivering a robust solution",249
+1232,"1.2.B06 - Assess produced work",144
+2318,"T-VIR-901 - Assessing objectively produced work",1232
+184,"T-DEV-700 - Delivering in time",183
+1853,"T-WEB-700 - Centralizing containers management",1236
+2128,"T-EPI-000 - Participating in a social action",1372
+2159,"T-ESP-902 - Automating deployment process",355
+2178,"T-PRO-000 - Writing formative documents",1812
+1812,"3.1.B09 - Write formative documents ",193
+1913,"T-CLO-901 - Submitting a clean and well organised delivery",189
+1915,"T-AIA-901 - Submitting a clean and well organised delivery",189
+1852,"T-DEV-700 - Identifying user needs",352
+2164,"T-ESP-902 - Building a functional test sequence",224
+2179,"T-PRO-000 - Using a SDK",2052
+2182,"T-PRO-000 - Defining strategical scenario",1814
+1850,"T-ESP-901 - Taking into account the budget and financial aspects of the project",400
+1851,"T-ESP-901 - Taking into account legal aspects of a project",1638
+1848,"T-ESP-901 - Identifying skills needed to complete the project",1411
+1849,"T-ESP-901 - Facilitating product acceptance",1648
+2103,"T-DIT-901 - Taking into account the budget and financial aspects of the project",400
+2104,"T-DIT-901 - Foreseeing legal pitfalls of a project",1638
+2034,"2.4.B06 - Set up beta tests",171
+2201,"T-MAJ-800 - Identifying the legal constraints",389
+1918,"T-AIA-901 - Producing a clean code",180
+1923,"T-IOT-901 - Drawing a class diagram",194
+1926,"T-AIA-901 -  Batch creating texts for training",1386
+1386,"3.1.B08 - Create a large set of files",193
+1925,"T-CLO-901 - Writing documentation",198
+1924,"T-CLO-901 - Providing a high availability assessment process",203
+1927,"T-CLO-901 - Automating deployment process",355
+2180,"T-PRO-000 - Performing cross-plateform compilation",2060
+1929,"T-IOT-901 - Automating documentation of coded functions",1289
+1930,"T-IOT-901 - Automating tests launching",1292
+1933,"T-IOT-901 - Using libraries",1388
+2090,"T-DIT-901 - Prioritizing functionalities implementatio",145
+2105,"T-DIT-901 - Refering to a risk management framework",1639
+2216,"T-MAJ-800 - Using an IoT device with creativity",1290
+1638,"5.2.B12 - Take into account legal aspects of a project",237
+194,"3.1.B02 - Draw a class diagram",193
+1934,"T-AIA-901 - Using libraries",1388
+1935,"T-DAT-901 - Optimizing an algorithm tuning",1390
+1390,"3.2.B08 - Optimize an algorithm tuning",179
+1939,"T-IOT-901 - Transmitting information between two entities",216
+1940,"T-IOT-901 - Building a full unit test coverage",214
+1941,"T-IOT-901 - Building a functional test sequence",224
+1944,"T-DAT-901 - Implementing feature reduction (PCA)",1394
+1946,"T-CLO-901 - Guaranteeing uptime migrating VMs",315
+1968,"T-DAT-901 - Extracting new features from initial dataset",1290
+1936,"T-AIA-901 - Optimizing an algorithm tuning",1390
+1943,"T-AIA-901 - Accelerating algorithm training",1309
+1945,"T-AIA-901 - Implementing a complex NLP algorithm",1394
+1932,"T-DAT-901 - Using libraries",1388
+1965,"T-DAT-901 - Discriminating operable data",1637
+331,"4.2.B06 - Securize communication",252
+1487,"T-NSA-800 - Documenting produced work",277
+1950,"T-CLO-901 - Granting specific access levels",330
+1953,"T-IOT-901 - Complying with the subject",228
+1937,"T-DAT-901 - Organizing a code in logical entities",220
+2282,"T-AIA-902 - Organizing a code in logical entities",220
+1956,"T-CLO-901 - Guaranteeing a fast AWS deployment",341
+1959,"T-IOT-901 - Identifying an anomaly",1330
+1960,"T-AIA-901 - Identifying incorrect input",1330
+1966,"T-AIA-901 - Getting relevant data to fit the project needs",1637
+1961,"T-IOT-901 - Organizing a project in several independant components",245
+1962,"T-IOT-901 - Taking into account the budget and financial aspects of the project",400
+2329,"T-CLO-902 - Sharing artifacts",1255
+1964,"T-DAT-901 - Selecting the most suitable algorithm",1318
+1967,"T-IOT-901 - Suggesting improvements/Adding features",442
+1949,"T-CLO-901 - Replicating databases",1520
+1951,"T-CLO-901 - Installing SSL certificates",331
+1955,"T-AIA-901 - Complying with specifications",228
+1963,"T-AIA-901 - Benchmarking algorithms",1318
+1942,"T-DAT-901 - Producing fast code",1309
+1952,"T-DAT-901 - Complying with specifications",228
+2183,"T-PRO-000 - Drawing lessons from experience",1817
+2283,"T-DAT-902 - Organizing a code in logical entities",220
+2092,"T-DIT-901 - Using project management tools",175
+2106,"T-DIT-901 - Celebrating success",1817
+2351,"T-VIR-901 - Designing the code to easily add new device",2061
+2293,"T-IOT-902 - Complying with the subject",228
+2307,"T-CLO-902- Addressing a clear and organized speech",132
+1972,"T-DIT-902 - Supporting a talk with relevant slides",128
+1973,"T-DIT-902 - Synthetizing elements through a matrix",410
+1974,"T-DIT-902 - Formalizing a functional chain of actors and interdependencies",414
+1975,"T-DIT-902 - Answering questions",136
+1976,"T-DIT-902 - Identifying technical added value of innovation",281
+1977,"T-DIT-902 - Researching existing technologies and solutions",372
+1978,"T-DIT-902 - Previewing technical challenges",1355
+1979,"T-DIT-902 - Identifying risks",1355
+1980,"T-DIT-902 - Drafting a SWOT analysis",145
+1981,"T-DIT-902 - Discriminating relevant information",145
+1982,"T-DIT-902 - Drawing conclusions from a SWOT analysis",377
+1983,"T-DIT-902 - Identifying relevant criteria of analysis",1362
+1969,"T-CLO-901 - Orchestrating deployments and updates",344
+1958,"T-DAT-901 - Identifying an anomaly",1330
+1970,"T-CLO-901 - Monitoring infrastructure for anomalies",1330
+1984,"T-DIT-902 - Transposing information into a matrix",1366
+1985,"T-DIT-902 - Analyzing company information system assets",1425
+1986,"T-DIT-902 - Using project management tools",175
+1987,"T-DIT-902 - Delivering in time",183
+1988,"T-DIT-902 - Mindmapping an ecosystem",1384
+1989,"T-DIT-902 - Integrating an innovation into an existing solution",1582
+1990,"T-DIT-902 - Suggesting data security improvements",1397
+1991,"T-DIT-902 - Complying with the subject",228
+1992,"T-DIT-902 - Defining strategical scenario",1814
+1993,"T-DIT-902 - Identifying integration steps",238
+1582,"3.2.B09 - Homogenize the components",179
+2170,"T-ESP-902 - Assisting users in using an application",358
+2181,"T-PRO-000 - Respecting the Open-closed principle (from S.O.L.I.D.)",2061
+2185,"T-PRO-000 - Investigating product acceptance",2000
+2002,"T-LAW-900 - Writing a legal feasability report",410
+2003,"T-LAW-900 - Adapting communication scheme to an objective",1346
+1994,"T-DIT-902 - Identifying several blocks inside one single big project",245
+1995,"T-DIT-902 - Identifying financial added value of innovation",400
+1996,"T-DIT-902 - Taking measure of the financial impact of a project",400
+1997,"T-DIT-902 - Foreseeing legal pitfalls of a project",1638
+1998,"T-DIT-902 - Identifying payment process stakeholders",1816
+1999,"T-DIT-902 - Outlining an innovation strategy",442
+2001,"T-DIT-902 - Identifying human added value of innovation",2000
+377,"1.2.B02 - Evaluate the feasability of a solution",144
+2132,"T-EPI-000 - Publishing on a public platform",2036
+175,"2.4.B02 - Use project management tools",171
+220,"3.4.B03 - Organize a code in logical entities",207
+1318,"5.2.B09 - Select the most suitable algorithm",237
+2004,"T-LAW-900 - Complying with RGPD",374
+2005,"T-LAW-900 - Keeping a legal watch",389
+2006,"T-LAW-900 - Taking into account legal aspects of a project",1638
+2009,"T-ESP-700 - Arguing one's opinion",134
+2010,"T-ESP-700 - Evaluating a video",1230
+2011,"T-ESP-700 - Behaving decently on forums",150
+2012,"T-ESP-700 - Promoting through Moodle forum",1263
+2118,"T-EPI-000 - Documenting produced work",277
+2008,"T-ESP-700 - Composing a complementary team",1411
+2013,"T-ESP-700 - Answering questions relevantly",136
+283,"T-NSA-700 - Finding how to deploy angular2+ application",281
+282,"T-NSA-700 - Locating frontend and backend logs",280
+1492,"T-NSA-800 - Suggesting performance improvements",1355
+2000,"5.4.B07 - Investigate product acceptance",236
+1827,"T-ESP-901 - Estimating the amount of work",420
+2007,"T-ESP-700 - Video-teasing a project.",1346
+2019,"T-SEC-902 - Writing a professional report",277
+2017,"T-SEC-902 - Supporting a talk with relevant slides",128
+2016,"T-VIR-902 - Supporting a talk with relevant slides",128
+2020,"T-VIR-902 - Answering questions",136
+2014,"T-VIR-902 - Addressing a clear and organized speech",132
+1493,"T-NSA-800 - Finding useful info among documentation",145
+2035,"T-VIR-902 - Setting up beta tests",2034
+2232,"T-AIA-902 - Arguing one's opinion",134
+2116,"T-EPI-000 - Communicating outside your company or school",367
+2119,"T-EPI-000 - Adapting communication scheme to an objective",1346
+1810,"2.4.B05 - Define communication requirements",171
+2093,"T-DIT-901 - Drafting a compelling communication plan",1810
+2026,"T-VIR-902 - Monitoring to evaluate playability",1232
+2022,"T-VIR-902 - Getting coherent and relevant environment",1226
+2027,"T-SEC-902 - Testing robustness",1232
+2028,"T-SEC-902 - Inventoring and looking for potential CVEs",1234
+2029,"T-SEC-902 - Displaying data using graphics",290
+2033,"T-SEC-902 - Using project management tools",175
+2025,"T-SEC-902 - Indentifying state of the art security measures",145
+2032,"T-VIR-902 - Using project management tools",175
+2030,"T-VIR-902 - Optimizing 3d objects poly number",422
+2018,"T-VIR-902 - Writing a Game Design Document",277
+2345,"T-VIR-901 - Integrating shaders or particles library  ",1388
+2233,"T-DAT-902 - Arguing one's opinion",134
+162,"2.6 Managing digital identity",148
+2235,"T-DAT-902 - Extracting non-trivial features for better predictions",281
+1494,"T-NSA-800 - Collect metrics",1362
+1841,"T-ESP-901 - Building a full unit test coverage",214
+2044,"T-VIR-902 - Producing a clean code",180
+167,"2.2.B03 - Organize a conference",164
+2056,"T-VIR-902 - Building a full unit test coverage",214
+1411,"5.4.B05 - Identify required skills ",236
+2049,"T-VIR-902 - Setting a continuous integration process",355
+2042,"T-VIR-902 - Submitting a clean and well organised delivery",189
+2046,"T-VIR-902 - Delivering a robust solution",249
+2045,"T-SEC-902 - Producing a clean code",180
+2047,"T-SEC-902 - Delivering a robust solution",249
+2048,"T-SEC-902 - Defining an overview of risk analaysis and remediation pairs",203
+2043,"T-SEC-902 - Submitting a clean and well organised delivery",189
+2037,"T-VIR-902 - Publishing on a public platform",2036
+2308,"T-VIR-901 - Addressing a clear and organized speech",132
+2334,"T-VIR-901 - Delivering in time",183
+2038,"T-VIR-902 - Delivering in time",183
+1504,"T-NSA-800 - Setting up a CD pipeline",355
+2057,"T-VIR-902 - Producing a fast application",1309
+2234,"T-IOT-902 - Arguing one's opinion",134
+207,"3.4 Programming",178
+2236,"T-IOT-902 - Using sensors to collect data",1225
+2272,"T-AIA-902 - Writing code documentation",198
+2117,"T-EPI-000 - Communicating inside your company or school",368
+2110,"T-DIT-901 - Identifying acceptance pain points",2000
+2349,"T-VIR-901 - Producing a reactive code",1309
+2052,"3.2.B10 - Use SDK",179
+2051,"T-VIR-902 - Integrating shaders or particles library",1388
+2054,"T-VIR-902 - Implementing a game state pattern  ",218
+2055,"T-VIR-902 - Developing a multiplayer game",212
+2058,"T-VIR-902 - Implementing an Shaders algorithm",1394
+2059,"T-VIR-902 - Implementing an AI algorithm",1394
+2053,"T-VIR-902 - Using a XR-SDK",2052
+2344,"T-VIR-901 - Overlaying data",1286
+2350,"T-VIR-901 - Performing multiplatform build",2060
+2064,"T-SEC-902 - Sandboxing environment",205
+1286,"3.2.B03 - Overlay data",179
+2115,"T-EPI-000 - Supporting a talk with relevant slides",128
+2120,"T-EPI-000 - Defining procedures",1488
+2124,"T-EPI-000 - Giving a talk in front of students",169
+2237,"T-AIA-902 - Taking into account various constraints of a given problem ",1355
+2405,"T-PRO-007 - Locating logs",280
+2273,"T-DAT-902 - Writing code documentation",198
+2284,"T-IOT-902 - Connecting sensor to internet through gateway single-board",216
+2300,"T-IOT-902 - Adapting wireless transmission to the case",1636
+2303,"T-DAT-902 - Extracting new features from initial dataset",1290
+2130,"T-EPI-000 - Adapting communication to the specific audience",429
+2131,"T-EPI-000 - Promoting a project or oneself",1263
+1512,"T-NSA-800 - Complying with the subject",228
+216,"3.4.B06 - Transmit information between two entities",207
+2062,"T-VIR-902 - Performing multiplatform build",2060
+2238,"T-DAT-902 - Discriminating relevant information",145
+2240,"T-DAT-902 - Producing  quality charts",1230
+2244,"T-DAT-902 - Choosing relevant topics",1362
+2260,"T-AIA-902 - Using a versioning tool",186
+2274,"T-AIA-902 -  Batch creating episodes for training",1386
+2294,"T-AIA-902 - Identifying incorrect input",1330
+2241,"T-AIA-902 - Assessing quality of process and results",1232
+2285,"T-AIA-902 - Producing a fast algorithm",1309
+2139,"T-EPI-000 - Assisting users in using an application",358
+1290,"5.3.B05 - Hack  a tool",231
+2239,"T-AIA-902 - Discriminating relevant information",145
+2137,"T-EPI-000 - Crafting an object",1287
+2138,"T-EPI-000 - Hacking a tool",1290
+2141,"T-EPI-000 - Facilitating newbies integration",1273
+1395,"T-DEV-810 - Coding a heatmap (or similar)",1394
+1261,"T-ESP-800 - Respecting a coding style",1260
+393,"4.3.B02 - Use digital technologies to improve well-being",253
+1353,"T-DIT-810 - Obtaining interviews with doctors or any medical staff",1352
+1330,"5.1.B07 - Identify an anomaly",227
+1421,"T-WEB-800 - Storing data",142
+1419,"T-DEV-800 - Storing data",142
+1460,"T-DEV-800 - Building a full unit test coverage",214
+1880,"T-CLO-901 - Investigating independant hypervisors LAN sharing",1355
+1817,"5.2.B14 - Draw lessons from experience",237
+2133,"T-EPI-000 - Using digital technologies to improve well-being",393
+2134,"T-EPI-000 -  Ensuring connections safety of each component",1323
+2135,"T-EPI-000 - Suggesting improvements",1817
+2136,"T-EPI-000 - Designing a creative solution",442
+2411,"T-PRO-007 - Estimating an amount of work",420
+2140,"T-EPI-000 - Organizing training sessions",406
+287,"T-WEB-700 - Storing text data",142
+292,"T-WEB-700 - Displaying complex data",290
+1938,"T-AIA-901 - Organizing a code in logical entities",220
+1579,"T-MAJ-800 - Using a datascience or a ML library",1388
+1641,"T-MAJ-800 - Discriminating operable data",1637
+1626,"T-MAJ-800 - Automating recovery",343
+2242,"T-DAT-902 - Assessing produced work",1232
+2261,"T-DAT-902 - Using a versioning tool",186
+2275,"T-AIA-902 - Taking ownership of existing code",1283
+2287,"T-AIA-902 - Implementing an reinforcment learning algorithm",1394
+2304,"T-IOT-902 - Using a sensor with creativity",1290
+2295,"T-DAT-902 - Identifying an anomaly",1330
+1226,"1.1.B06 - Get relevant 3D-models",140
+166,"T-PRO-000 - Creating a tutorial",165
+1931,"T-DAT-901 - Automating patching",1297
+2803,"T-NSA-800 - Taking infrastructure's costs into account",400
+2243,"T-AIA-902 - Choosing relevant metrics",1362
+2142,"T-ESP-902 - Addressing a clear and organized speech",132
+2143,"T-ESP-902 - Supporting a talk with relevant slides",128
+2145,"T-ESP-902 - Answering questions",136
+2146,"T-ESP-902 - Arguing one's opinion",134
+2147,"T-ESP-902 - Complying with the procedure manual",374
+2150,"T-ESP-902 - Using specific tools to collaborate as a team",172
+2151,"T-ESP-902 - Respecting a testing procedure",1260
+2173,"T-ESP-902 - Facilitating product acceptance",1648
+2262,"T-IOT-902 - Using a versioning tool",186
+2276,"T-IOT-902 - Upgrading an existing firmware",1283
+2149,"T-ESP-902 - Assessing produced work",1232
+2296,"T-IOT-902 - Identifying an anomaly",1330
+2198,"T-MAJ-800 - Setting up the possibility to test one's solution with the final user",203
+2075,"T-VIR-902 - Designing an intuitive and ergonomic user-interface ",1245
+2311,"T-VIR-901 - Documenting produced work",277
+2153,"T-ESP-902 - Delivering in time",183
+2154,"T-ESP-902 - Using a versioning tool",186
+2155,"T-ESP-902 - Submitting a clean and well organised delivery",189
+2156,"T-ESP-902 - Producing a clean code",180
+2160,"T-ESP-902 - Automating generation of documentation",1289
+2161,"T-ESP-902 - Automating tests launching",1292
+1921,"T-DAT-901 - Ensuring scraper robustness",249
+2162,"T-ESP-902 - Packaging the components into one functional app",1582
+2165,"T-ESP-902 - Complying with the subject",228
+2166,"T-ESP-902 - Proving flexibility and reactivity to client needs",259
+2167,"T-ESP-902 - Taking into account the budget and financial aspects of the project",400
+2168,"T-ESP-902 - Taking into account legal aspects of a project",1638
+2169,"T-ESP-902 - Refering to a standard",1639
+2190,"T-PRO-902 - Complying with specifications",228
+1639,"5.2.B13 - Refer to a standard",237
+2171,"T-ESP-902 - Facilitating newbies integration",1273
+2172,"T-ESP-902 - Identifying skills needed to complete the project",1411
+2277,"T-AIA-902 - Using specific libraries",1388
+2288,"T-DAT-902 - Sorting features by importance",1394
+2305,"T-AIA-902 - Giving instructions to use the project",358
+2199,"T-MAJ-800 -  Batch creating dataset for training",1386
+2187,"T-PRO-902 - Writing a concise document",410
+2186,"T-PRO-902 - Communicating inside your company or school",368
+2114,"T-EPI-000 - Summing up information from a hubtalk",2113
+2121,"T-EPI-000 - Answering questions",136
+2193,"T-MAJ-800 - Writing a data scientist report",410
+2061,"3.4.B18 - Respect the Open-closed principle (from S.O.L.I.D.)",207
+1370,"2.2.B07 - Share an organized set of documents",164
+2192,"T-MAJ-800 - Documenting IoT solution",277
+2196,"T-MAJ-800 - Drafting a compelling communication plan",1810
+2188,"T-PRO-902 - Adapting communication scheme to an objective",1346
+2194,"T-MAJ-800 - Pentesting to identify security weaknesses",1232
+2191,"T-PRO-902 - Arguing one's report",134
+2189,"T-PRO-902 - Adapting one's creation",1283
+2805,"T-NSA-800 - Setting up a CI pipeline",1292
+2245,"T-AIA-902 - Keeping persistent the parameters resulting from learning phase",142
+2289,"T-IOT-902 - Ensuring devices safety",1317
+2197,"T-MAJ-800 - Defining an overview of risk analaysis and remediation pairs",203
+2195,"T-MAJ-800 - Sharing the set of background search documents",1370
+2113,"0.2.B01 - Sum up information from an oral presentation",125
+2200,"T-MAJ-800 - Automating generation of documentation",1289
+2202,"T-MAJ-800 - Organizing a code in logical entities",220
+2203,"T-MAJ-800 - Building a full unit test coverage",214
+2204,"T-MAJ-800 - Developing a complex algorithm",1394
+2341,"T-VIR-901 - Delivering a robust solution",249
+2205,"T-MAJ-800 - Compiling on all required plateforms",2060
+2206,"T-MAJ-800 - Designing the code to easily add new device",2061
+2207,"T-MAJ-800 - Defining a secure secret storage",327
+2208,"T-MAJ-800 - Limitating open ports",330
+2209,"T-MAJ-800 - Defining highest privilege rights",362
+2210,"T-MAJ-800 - Identifying anomalies",1330
+2211,"T-MAJ-800 - Writing software architecture specifications",243
+2212,"T-MAJ-800 - Identifying implementation steps",238
+2213,"T-MAJ-800 - Organizing a project in several independant components",245
+2214,"T-MAJ-800 - Proving flexibility and reactivity to client needs",259
+2215,"T-MAJ-800 - Foreseeing legal pitfalls of a project",1638
+2217,"T-MAJ-800 - Composing an heterogeneous skilled team",404
+2218,"T-MAJ-800 - Identifying acceptance pain points",2000
+1587,"T-MAJ-800 - Transmitting information between the single-board microcontroller and the app",216
+2297,"T-IOT-902 - Organizing a project in several independant components",245
+2301,"T-IOT-902 - Implementing innovative features",442
+2306,"T-DAT-902 - Giving instructions to read the notebook",358
+422,"1.3.B05 - Balance size against quality",141
+1317,"4.1.B06 - Ensure devices safety",248
+400,"5.2.B08 - Take into account budget and financial aspects of a project",237
+2343,"T-CLO-902 - Describing assessment steps",203
+2246,"T-DAT-902- Storing data",142
+2312,"T-CLO-902 - Defining a deployment procedure",1488
+2804,"T-NSA-800 - Ensuring deployment quality",320
+1238,"1.3.B06 - Log data in a file",141
+2313,"T-VIR-901 - Answering questions",136
+2326,"T-VIR-901 - Designing an intuitive and ergonomic user-interface ",1245
+2340,"T-VIR-901 - Producing a clean code",180
+2367,"T-CLO-902 - Setting up an alert system",1330
+1234,"1.2.B07 - Evaluate artefacts security using public vulnerabilities databases",144
+1253,"2.2.B05 - Share the display of a connected device",164
+2331,"T-CLO-902 - Using project management tools",175
+2428,"T-PRO-007 - Writing code documentation",198
+2332,"T-CLO-902 - Promoting a project",1263
+2337,"T-CLO-902 - Using a versioning tool",186
+2339,"T-CLO-902 - Submitting a clean and well organised delivery",189
+2060,"3.4.B17 - Perform cross-plateform compilation",207
+183,"3.0.B01 - Deliver in time",265
+2328,"T-VIR-901 - Sharing smartphone display",1253
+245,"5.2.B05 - Organize a project in several independent components",237
+2342,"T-CLO-902 - Delivering a robust solution",249
+2330,"T-VIR-901 - Using project management tools",175
+2336,"T-VIR-901 - Using a versioning tool",186
+2338,"T-VIR-901 - Submitting a clean and well organised delivery",189
+2347,"T-CLO-902 - Building a functional test sequence",224
+2352,"T-CLO-902 - Guaranteeing zero-downtime deployment",315
+315,"4.1.B01 - Guarantee uptime",248
+2353,"T-CLO-902 - Creating lightweight Docker images",205
+1509,"4.1.B07 - Improve infrastructure safety",248
+2358,"T-CLO-902 - Reinforcing network access",330
+254,"4.4 Protecting the environment",247
+2369,"T-VIR-901 - Designing a creative yet useful solution",442
+2348,"T-VIR-901 - Utilizing an XR engine",1306
+2361,"T-VIR-901 - Complying with the subject",228
+2346,"T-VIR-901 - Connecting to APIs",216
+2396,"T-SEC-901 - Reconfiguring security rules",402
+2397,"T-SEC-901 - Logging devices inputs",1290
+2355,"T-CLO-902 - Limiting infra capabilities",1509
+2356,"T-CLO-902 - Backuping the databases",1520
+2357,"T-CLO-902 - Storing secrets",327
+2363,"T-CLO-902 - Guaranteeing a fast recovery",341
+2366,"T-CLO-902 - Defining orchestrator access permissions",362
+2368,"T-CLO-902 - Isolating components in Docker containers",245
+1800,"T-PRO-000 - Exploiting lateraly vulnerable artefacts",1295
+1292,"3.2.B05 - Automate tests launching",179
+2359,"4.4.B03 - Optimize resources consumption",254
+1297,"3.2.B06 - Automate patching",179
+442,"5.3.B03 - Design a creative solution",231
+2370,"T-VIR-901 - Assisting users in using an application",358
+2373,"T-SEC-901 - Documenting the malware",277
+2374,"T-SEC-901 - Answering questions",136
+2375,"T-SEC-901 - Arguing one's opinion",134
+2376,"T-SEC-901 - Covering tracks",280
+2377,"T-SEC-901 - Finding credentials on victim's machine",281
+2378,"T-SEC-901 - Assessing malware operability",1232
+2379,"T-SEC-901 - Evaluating artefacts security using OSINT",1234
+2360,"T-CLO-902 - Auto-scaling",2359
+2362,"T-CLO-902 - Complying with the subject",228
+2364,"T-CLO-902 - Automating rollback",343
+2365,"T-CLO-902 - Orchestrating components",344
+1294,"5.3.B06 - Exploit vertically vulnerable artefacts",231
+269,"4.1.B04 - Ensure code safety",248
+280,"1.1.B01 - Locate valuable data",140
+2401,"T-PRO-007 - Making a professional public presentation ",367
+2400,"T-PRO-007 - Making a professional presentation to other departments",368
+2403,"T-PRO-007 - Writing a concise document",410
+2381,"T-SEC-901 - Connecting two distant machines",1247
+2382,"T-SEC-901 - Using project management tools",175
+2383,"T-SEC-901 - Using a versioning tool",186
+2384,"T-SEC-901 - Submitting a clean and well organised delivery",189
+2385,"T-SEC-901 - Producing a clean code",180
+2386,"T-SEC-901 - Upgrading an existing malware",1283
+2387,"T-SEC-901 - Using hacking tools",1388
+2388,"T-SEC-901 - Transmitting information between a C2 server and victim's machine",216
+2389,"T-SEC-901 - Testing malware's functionalities",224
+2390,"T-SEC-901 - Granting self access",269
+2391,"T-SEC-901 - Securizing communications",331
+2392,"T-SEC-901 - Complying with the subject",228
+2395,"T-SEC-901 - Decentralizing malware functionalities|interactions",245
+2398,"T-SEC-901 - Exploiting vulnerabilities to escalate privilege",1294
+2399,"T-SEC-901 - Exploiting vulnerabilities to spread oneself",1295
+367,"0.3.B02 - Make a professional public presentation ",127
+1488,"0.3.B07 - Define procedures",127
+368,"0.3.B03 - Make a professional presentation inside your company",127
+2406,"T-PRO-007 - Finding non trivial technical points",281
+2407,"T-PRO-007 - Implementing a technology watch",372
+2408,"T-PRO-007 - Complying with existing procedures",374
+2409,"T-PRO-007 - Investigating relevant obstacles preventing a solution",1355
+2410,"T-PRO-007 - Evaluating the feasibility of a solution",377
+2412,"T-PRO-007 - Keeping data persistent",142
+2404,"T-PRO-007 - Defining procedures",1488
+281,"1.1.B02 - Find non trivial technical points",140
+1337,"5.1.B09 - Patch vulnerable artefacts",227
+374,"1.1.B04 - Comply with existing procedures",140
+380,"2.1.B02 - Adapt vectors of communication",153
+277,"0.3.B04 - Document produced work",127
+1245,"2.1.B04 - Design a user interface",153
+165,"2.2.B01 - Create a tutorial",164
+2413,"T-PRO-007 - Displaying complex data",290
+2414,"T-PRO-007 - Making data easily available",1425
+2415,"T-PRO-007 - Adapting vectors of communication",380
+2416,"T-PRO-007 - Designing a user interface",1245
+2417,"T-PRO-007 - Connecting two distant machines",1247
+2418,"T-PRO-007 - Connecting two containers",1249
+2419,"T-PRO-007 - Creating a tutorial",165
+2420,"T-PRO-007 - Organizing a conference",167
+2422,"T-PRO-007 - Using project management tools",175
+2423,"T-PRO-007 - Complying with corporate guidelines",1260
+2424,"T-PRO-007 - Behaving decently on forums",150
+2425,"T-PRO-007 - Adapting communication to the specific audience",429
+2426,"T-PRO-007 - Behaving constructively on forums",448
+2427,"T-PRO-007 - Promoting a project or oneself",1263
+1289,"3.2.B04 - Automate generation of documentation",179
+1260,"2.4.B03 - Comply with corporate guidelines",171
+429,"2.5.B03 - Adapt communication to the specific audience",149
+448,"2.5.B04 - Behave constructively on forums",149
+198,"3.1.B05 - Write code documentation",193
+205,"4.1.B03 - Virtually isolate components",248
+2429,"T-PRO-007 - Automating deployment",355
+2430,"T-PRO-007 - Taking ownership of legacy work",1283
+2431,"T-PRO-007 - Automating generation of documentation",1289
+2432,"T-PRO-007 - Automating tests launching",1292
+2433,"T-PRO-007 - Automating patching",1297
+2434,"T-PRO-007 - Keeping a legal watch",389
+2435,"T-PRO-007 - Refering to a design pattern",218
+2436,"T-PRO-007 - Handling events in a HMI",208
+2437,"T-PRO-007 - Crafting a transmission protocol between two devices",212
+2438,"T-PRO-007 - Building a full unit test coverage",214
+2439,"T-PRO-007 - Building a functional test sequence",224
+2440,"T-PRO-007 - Virtually isolating components",205
+2441,"T-PRO-007 - Ensuring deployment quality",320
+2465,"T-PRO-000 - Optimizing resources consumption",2359
+342,"5.1.B02 - Deploy quickly",227
+344,"5.1.B04 - Orchestrate",227
+243,"5.2.B02 - Write technical specifications",237
+320,"4.1.B05 - Ensure deployment quality",248
+2249,"T-DAT-902 - Displaying complex data",290
+2806,"T-DAT-902 - Documenting produced work",277
+2267,"T-DAT-902 - Producing a clean code",180
+391,"4.3.B01 - Take handicaps into consideration when offering a service",253
+2443,"T-PRO-007 - Storing safely personal data",327
+2444,"T-PRO-007 - Managing access",330
+2446,"T-PRO-007 - Taking handicaps into consideration when offering a service",391
+2447,"T-PRO-007 - Guaranteing a low Mean Time To Recovery",341
+2448,"T-PRO-007 - Deploying quickly",342
+2449,"T-PRO-007 - Automating recovery",343
+2450,"T-PRO-007 - Orchestrating ",344
+2452,"T-PRO-007 - Patching vulnerable artefacts",1337
+2453,"T-PRO-007 - Writing functional specifications",241
+2454,"T-PRO-007 - Writing technical specifications",243
+2455,"T-PRO-007 - Writing non-functional specifications",240
+2457,"T-PRO-007 - Organizing a project in several independent components",245
+2451,"T-PRO-007 - Taking into account legal aspects of a project",1638
+2456,"T-PRO-007 - Fixing steps (deliveries and non-regression tests)",238
+240,"5.2.B03 - Write non-functional specifications",237
+2402,"T-PRO-007 - Documenting produced work",277
+259,"5.2.B06 - Prove flexibility and reactivity to client needs",237
+358,"5.4.B01 - Assist users in using an application",236
+1273,"5.4.B04 - Facilitate newbies integration",236
+420,"1.2.B04 - Estimate an amount of work",144
+2442,"T-PRO-007 - Ensuring devices safety",1317
+2445,"T-PRO-007 - Suggesting solution to avoid possible safety breach in data",1397
+2459,"T-PRO-007 - Identifying clients needs",352
+2460,"T-PRO-007 - Taking into account budget and financial aspects of a project",400
+2461,"T-PRO-007 - Designing an innovative solution",442
+2462,"T-PRO-007 - Assisting users in using an application",358
+2463,"T-PRO-007 - Facilitating newbies integration",1273
+2464,"T-PRO-007 - Identifying required skills ",1411
+2458,"T-PRO-007 - Proving flexibility and reactivity to client needs",259
+2807,"T-DAT-902 - Gathering data on french housing market",280
+1838,"T-ESP-901 - Automating deployment process",355
+410,"0.3.B05 - Write a concise document",127
+372,"1.1.B03 - Implement a technology watch",140
+2778,"T-PRO-007 - Identifying an anomaly",1330
+2278,"T-DAT-902 - Using data science libraries",1388
+1372,"2.3.B03 - Participate in a social action",157
+1384,"3.1.B07 - Create a synthesis of documents",193
+1630,"T-MAJ-800 - Refining a solution to match user needs",259
+1823,"T-ESP-901 - Writing a concise document",410
+389,"3.3.B01 - Keep a legal watch",192
+1821,"T-ESP-901 - Addressing a clear and organized speech",132
+1822,"T-ESP-901 - Supporting a talk with relevant slides",128
+1824,"T-ESP-901 - Answering questions",136
+2808,"T-DAT-902 - Consuming data from an external API",360
+1825,"T-ESP-901 - Arguing one's opinion",134
+1826,"T-ESP-901 - Complying with the procedure manual",374
+1829,"T-ESP-901 - Using specific tools to collaborate as a team",172
+228,"5.0.B01 - Comply with specifications",268
+2608,"5.2.B16 - Suggest a business model",237
+352,"5.2.B07 - Identify clients needs",237
+189,"3.0.B03 - Submit a clean and well organised delivery",265
+1830,"T-ESP-901 - Respecting a testing procedure",1260
+1831,"T-ESP-901 - Promoting a project or oneself",1263
+1832,"T-ESP-901 - Delivering in time",183
+2078,"T-ESP-901 - Packaging the components into one functional app",1582
+180,"3.0.B04 - Produce a clean code",265
+1842,"T-ESP-901 - Building a functional test sequence",224
+2094,"T-DIT-901 - Delivering in time",183
+2286,"T-DAT-902 - Delivering a fast interactive application",1309
+312,"3.4.B12 - Develop using a Javascript framework",207
+128,"0.3.B01 - Support a talk with relevant slides",127
+203,"3.1.B04 - Provide a final quality assessment process",193
+142,"1.3.B01 - Keep data persistent",141
+1648,"5.4.B06 - Facilitate product acceptance",236
+360,"1.3.B04 - Consume structured data from an external source",141
+1971,"T-DIT-902 - Addressing a clear and organized speech",132
+2080,"T-DIT-901 - Supporting a talk with relevant slides",128
+2081,"T-DIT-901 - Communicating to coworkers not directly involved in the project",368
+2084,"T-DIT-901 - Writing user stories",410
+2086,"T-DIT-901 - Answering questions",136
+2091,"T-DIT-901 - Identifying relevant indicators to monitor",1362
+2095,"T-DIT-901 - Considering handicaps and impairments in the solution",391
+2096,"T-DIT-901 - Complying with the subject",228
+2082,"T-DIT-901 - Writing a product manifesto",410
+2107,"T-DIT-901 - Identifying stakeholders",1816
+2109,"T-DIT-901 - Identifying skills needed to implement a solution",1411
+2098,"T-DIT-901 - Writing functional specifications",241
+2036,"2.6.B02 - Publish on a public platform",162
+1404,"T-DIT-810 - Taking into account the budget and financial aspects of the project",400
+1359,"T-DIT-810 - Drafting a suitable financial model ",377
+290,"1.3.B03 - Make complex data visually understandable",141
+2315,"T-VIR-901 - Getting data from the smartphone",1225
+2644,"T-VIR-901 - Delivering a relevant storyboard",290
+2645,"T-VIR-901 - Setting up beta tests",2034
+2333,"T-VIR-901 - Publishing on a public platform",2036
+2649,"T-VIR-901 - Identifying user needs",352
+2648,"T-VIR-901 - Refining a solution to match user needs",259
+2646,"T-VIR-901 - Producing a promotional video",432
+2647,"T-VIR-901 - Using a XR-SDK",2052
+2763,"T-PRO-007 - Drawing an activity diagram",196
+1263,"2.6.B01 - Promote a project or oneself",162
+149,"2.5 Netiquette",148
+2672,"2.5.B05 - Consider morality and ethics when proposing a solution",149
+1457,"T-WEB-800 - Authentication via Oauth (Google/FB/…)",216
+2680,"T-WEB-800 - Organizing code according to a micro-services architecture",245
+2746,"T-PRO-007 - Getting data from an external device",1225
+1355,"1.1.B07 - Investigate relevant obstacles preventing a solution",140
+2747,"T-PRO-007 - Discriminating relevant information",145
+2748,"T-PRO-007 - Evaluating the quality of digital content",1230
+136,"0.5.B01 - Answer questions",133
+1283,"3.2.B02 - Take ownership of legacy work",179
+212,"3.4.B05 - Craft a transmission protocol between two devices",207
+330,"4.2.B05 - Manage access",252
+238,"5.2.B04 - Fix steps (deliveries and non-regression tests)",237
+1816,"5.2.B15 - Identify stakeholders",237
+1652,"T-PRO-800 - Supporting a talk with relevant slides",128
+2740,"T-PRO-007 - Addressing a clear and organized speech",132
+2741,"T-PRO-007 - Supporting a talk with relevant slides",128
+2742,"T-PRO-007 - Understanding given instructions",413
+2743,"T-PRO-007 - Working out meaning from written documents",414
+2744,"T-PRO-007 - Answering questions",136
+2745,"T-PRO-007 - Arguing one's opinion",134
+1867,"T-CLO-901 - Defining procedures",1488
+249,"3.0.B05 - Deliver a robust solution",265
+2761,"T-PRO-007 - Drawing a use-case diagram",201
+132,"0.1.B01 - Address a clear and organized speech",131
+2292,"T-DAT-902 - Complying with the subject",228
+2749,"T-PRO-007 - Assessing produced work",1232
+2750,"T-PRO-007 - Creating session tokens",289
+2751,"T-PRO-007 - Consuming structured data from an external source",360
+2752,"T-PRO-007 - Loging data in a file",1238
+2753,"T-PRO-007 - Reformating data",1366
+2754,"T-PRO-007 - Using specific tools to collaborate as a team",172
+2755,"T-PRO-007 - Participating in a code review",1561
+2756,"T-PRO-007 - Delivering in time",183
+2757,"T-PRO-007 - Using a versioning tool",186
+186,"3.0.B02 - Use a versioning tool",265
+2758,"T-PRO-007 - Submiting a clean and well organised delivery",189
+2759,"T-PRO-007 - Producing a clean code",180
+2760,"T-PRO-007 - Delivering a robust solution",249
+2779,"T-PRO-007 - Selecting the most suitable algorithm",1318
+2780,"T-PRO-007 - Adapting wireless transmission to the client needs",1636
+2781,"T-PRO-007 - Identifying the most suitable possible data",1637
+2809,"T-DAT-902 - Homogenizing different data sources",1366
+2762,"T-PRO-007 - Drawing a class diagram",194
+2764,"T-PRO-007 - Using libraries",1388
+1388,"3.2.B07 - Use libraries",179
+2765,"T-PRO-007 - Organizing a code in logical entities",220
+2766,"T-PRO-007 - Distributing the work along appropriate classes and avoiding extra static methods",210
+210,"3.4.B04 - Distribute the work along appropriate classes and avoiding extra static methods",207
+2767,"T-PRO-007 - Transmiting information between two entities",216
+2768,"T-PRO-007 - Coding in a functional paradigm-compliant way",255
+2769,"T-PRO-007 - Developing an authentication method",313
+2786,"T-VIR-902 - Overlaying data",1286
+2770,"T-PRO-007 - Developing using a Javascript framework",312
+2771,"T-PRO-007 - Utilizing an application development framework",1306
+2772,"T-PRO-007 - Producing fast code",1309
+2773,"T-PRO-007 - Ensuring code safety",269
+2774,"T-PRO-007 - Keeping environment variables coherent",326
+2775,"T-PRO-007 - Strengthening security using a password policy",328
+2776,"T-PRO-007 - Complying with specifications",228
+2777,"T-PRO-007 - Defining access",362
+362,"5.1.B06 - Define access",227
+1637,"5.2.B11 - Discriminate operable data",237
+2782,"T-PRO-007 - Recruiting the proper coworkers to fit a team",404
+2783,"T-PRO-007 - Making IP automatically available",1335
+1335,"5.1.B08 - Make IP automatically available",227
+2784,"T-VIR-902 - Improving spatial immersion",1240
+2040,"T-VIR-902 - Using a versioning tool",186
+2785,"T-VIR-902 - Improving cognitive immersion",1240
+2063,"T-VIR-902 - Designing the code to easily add new device",2061
+2023,"T-VIR-902 - Anticipating XR pain points",1355
+2031,"T-VIR-902 - Improving emotional immersion",1240
+2076,"T-VIR-902 - Designing a creative game",442
+2787,"T-VIR-902 - Utilizing an XR engine",1306
+1524,"T-MAJ-800 - Documenting produced work",277
+1616,"T-MAJ-800 - Complying with the subject",228
+1649,"T-MAJ-800 - Facilitating product acceptance",1648
+1541,"T-MAJ-800 - Using a document to refine value proposition",1362
+1875,"T-CLO-901 - Locating logs",280
+1558,"T-MAJ-800 - Using collaborating tools effectively",172
+1560,"T-MAJ-800 - Complying with team guidelines",1260
+1863,"T-CLO-901 - Documenting produced work",277
+2789,"T-CLO-901 - Arguing one's opinion",134
+1892,"T-DAT-901 - Displaying complex data",290
+1425,"1.3.B10 - Make data easily available",141
+134,"0.5.B02 - Argue one's opinion",133
+1884,"T-CLO-901 - Finding useful info among documentation",145
+2790,"T-CLO-901 - Choosing relevant comparison criteria",1362
+1362,"1.2.B08 - Identify relevant criteria of analysis",144
+1895,"T-CLO-901 - Centralize deployment",1236
+1919,"T-CLO-901 - Delivering a redundant and resilient soution",249
+1948,"T-CLO-901 - Improving infrastructure safety",1509
+2791,"T-CLO-901 - Storing credentials",327
+327,"4.2.B02 - Store safely personal data",252
+1954,"T-CLO-901 - Complying with specifications",228
+1957,"T-CLO-901 - Automating services reboots",343
+2792,"T-CLO-901 - Estimating infrastructure costs",400
+1906,"T-AIA-901 - Delivering in time",183
+1922,"T-AIA-901 - Delivering a robust solution",249
+1928,"T-AIA-901 - Using a speech recognition algorithm",1283
+1865,"T-DAT-901 - Writing a concise document",410
+1877,"T-DAT-901 - Finding non trivial technical points",281
+1886,"T-DAT-901 - Assessing produced work",1232
+145,"1.2.B01 - Discriminate relevant information",144
+2793,"T-DAT-901 - Discriminating relevant information",145
+1240,"1.3.B07 - Enhance expressiveness of the simulation",141
+2794,"T-DAT-901 - Displaying dynamic data",1240
+2795,"T-DAT-901 - Centralizing tasks",1236
+1236,"1.3.B08 - Centralize tasks",141
+2796,"T-DAT-901 - Making data easily available",1425
+2797,"T-DAT-901 - Connecting distant machines",1247
+2798,"T-DAT-901 - Connecting two containers",1249
+1249,"2.1.B06 - Connect two containers",153
+2799,"T-DAT-901 - Drawing a diagram",201
+201,"3.1.B01 - Draw a diagram",193
+2800,"T-DAT-901 - Automating scraper deployment",355
+355,"3.2.B01 - Automate deployment",179
+2801,"T-DAT-901 - Developping using a Javascript framework",312
+2802,"T-DAT-901 - Containerizing each components separately",245
+2810,"T-DAT-902 - Making data easily available",1425
+2371,"T-SEC-901 - Addressing a clear and organized speech",132
+2372,"T-SEC-901 - Supporting a talk with relevant slides",128
+2380,"T-SEC-901 - Obfuscating malware",1366
+2393,"T-SEC-901 - Automating malware recovery",343
+2394,"T-SEC-901 - Identifying anomalies to exploit them",1330
+2021,"T-SEC-902 - Answering questions",136
+2024,"T-SEC-902 - Defining a risk analysis matrix",1355
+2039,"T-SEC-902 - Delivering in time",183
+2041,"T-SEC-902 - Using a versioning tool",186
+2050,"T-SEC-902 - Monitoring environment alerts",1292
+2065,"T-SEC-902 - Hardening component",1317
+2066,"T-SEC-902 - Implementing service failovers",1509
+2067,"T-SEC-902 - Defining a secure secret storage",327
+2068,"T-SEC-902 - Defining a password policy",328
+2069,"T-SEC-902 - Defining rights management model",330
+2070,"T-SEC-902 - Documenting vulnerability remediations",1397
+2072,"T-SEC-902 - Complying with the subject",228
+2074,"T-SEC-902 - Identifying anomalies",1330
+2015,"T-SEC-902 - Addressing a clear and organized speech",132
+2811,"T-DAT-902 - Connecting distant machines",1247
